@@ -1,12 +1,17 @@
+# IMPORTANT : V1 is using 2 API calls for each place, so it is very slow.
+# 1st API calls is to get place IDs, 2nd API calls is to get place details.
+
 # Import libraries
 import requests
 import json
 
 # Define constants
-REGION = "id"
-LANGUAGE = "id"
 API_KEY = "AIzaSyAnZNq3mo7LON6UyvVbvnqum-wzxtV31Nk"
-PLACE_ID = "ChIJvb0GwNhYei4R1QHPGGdxI_A"  # Filosopi Kopi Jogja
+QUERY = "kafe atau restoran di Yogyakarta"
+RADIUS = 50000  # 50 km
+LANGUAGE = "id"
+REGION = "id"
+CITY_URL = "https://maps.googleapis.com/maps/api/place/textsearch/json"
 PLACE_URL = "https://maps.googleapis.com/maps/api/place/details/json"
 
 # Define categories
@@ -32,24 +37,40 @@ all_possible_fields = basic_category + contact_category + atmosphere_category
 
 # Define parameters
 params = {
-    "place_id": PLACE_ID,
-    # "fields": ','.join(all_possible_fields),
-    "fields": ','.join(show2android_fields),
+    "query": QUERY,
+    "radius": RADIUS,
     "key": API_KEY,
     "language": LANGUAGE,
     "region": REGION,
-    # "opennow": True,
-    "reviews_no_translations": True,
 }
 
 # GET data from Google Places API
-response = requests.get(PLACE_URL, params=params)
+response = requests.get(CITY_URL, params=params)
 
 # Convert data to JSON
 data = response.json()
 
-# Save data to JSON file
-with open("./response/1Place_selected_fields.json", "w") as file:
-    json.dump(data, file)
+# Get place IDs
+place_ids = [result["place_id"] for result in data.get("results", [])]
 
-print("DONE")
+# Get place details
+all_places_data = []
+for place_id in place_ids:
+    place_params = {
+        "place_id": place_id,
+        "fields": ','.join(all_possible_fields),
+        # "fields": ','.join(show2android_fields),
+        "key": API_KEY,
+        "language": LANGUAGE,
+        "region": REGION,
+        "reviews_no_translations": True,
+    }
+    place_response = requests.get(PLACE_URL, params=place_params)
+    place_data = place_response.json()
+    all_places_data.append(place_data)
+
+# Save data to JSON file
+with open("./response/1City_v1_all_fields.json", "w") as file:
+    json.dump(all_places_data, file)
+
+print("DONE!")
