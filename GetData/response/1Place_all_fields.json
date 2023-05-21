@@ -1,0 +1,360 @@
+{
+    "html_attributions": [],
+    "result": {
+        "address_components": [
+            {
+                "long_name": "001/17",
+                "short_name": "001/17",
+                "types": [
+                    "street_number"
+                ]
+            },
+            {
+                "long_name": "Jalan Pandhawa",
+                "short_name": "Jl. Pandhawa",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Tegal Rejo",
+                "short_name": "Tegal Rejo",
+                "types": [
+                    "administrative_area_level_5",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Sariharjo",
+                "short_name": "Sariharjo",
+                "types": [
+                    "administrative_area_level_4",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Kecamatan Ngaglik",
+                "short_name": "Kec. Ngaglik",
+                "types": [
+                    "administrative_area_level_3",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Kabupaten Sleman",
+                "short_name": "Kabupaten Sleman",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Daerah Istimewa Yogyakarta",
+                "short_name": "Jogja",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Indonesia",
+                "short_name": "ID",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "55581",
+                "short_name": "55581",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">Jl. Pandhawa No.001/17</span>, <span class=\"extended-address\">Tegal Rejo, Sariharjo, Kec. Ngaglik</span>, <span class=\"locality\">Kabupaten Sleman</span>, <span class=\"region\">Daerah Istimewa Yogyakarta</span> <span class=\"postal-code\">55581</span>, <span class=\"country-name\">Indonesia</span>",
+        "business_status": "OPERATIONAL",
+        "delivery": true,
+        "dine_in": true,
+        "formatted_address": "Jl. Pandhawa No.001/17, Tegal Rejo, Sariharjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55581",
+        "formatted_phone_number": "0817-0737-027",
+        "geometry": {
+            "location": {
+                "lat": -7.7276491,
+                "lng": 110.3769876
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -7.726274569708496,
+                    "lng": 110.3782928802915
+                },
+                "southwest": {
+                    "lat": -7.728972530291501,
+                    "lng": 110.3755949197085
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "international_phone_number": "+62 817-0737-027",
+        "name": "Filosofi Kopi Jogja",
+        "opening_hours": {
+            "open_now": true,
+            "periods": [
+                {
+                    "close": {
+                        "day": 0,
+                        "time": "2200"
+                    },
+                    "open": {
+                        "day": 0,
+                        "time": "0700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2200"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "0700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 2,
+                        "time": "2200"
+                    },
+                    "open": {
+                        "day": 2,
+                        "time": "0700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2200"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "0700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2200"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "0700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2200"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "0700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "2200"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "0700"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Senin: 07.00\u201322.00",
+                "Selasa: 07.00\u201322.00",
+                "Rabu: 07.00\u201322.00",
+                "Kamis: 07.00\u201322.00",
+                "Jumat: 07.00\u201322.00",
+                "Sabtu: 07.00\u201322.00",
+                "Minggu: 07.00\u201322.00"
+            ]
+        },
+        "photos": [
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107037965511340307982\">Filosofi Kopi Jogja</a>"
+                ],
+                "photo_reference": "AZose0mffMWB9afXQ3IQdRfoXCF1ohBa7OYCWfXB46F0xagZtQXG9Pu99lckftrRJTyveJjfrO8Vp7V4iBXotrTUjfW1uyB4cCYX_1kxgS_aDpV9Ncj0ONKa0DP_r5r7q58sQG7RiVdUPEu-U0HB1S7Rjt7QQBCsGOlbs_5CAnSlM0RGldNU",
+                "width": 5184
+            },
+            {
+                "height": 3472,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110595740842075411130\">djarot herdiman</a>"
+                ],
+                "photo_reference": "AZose0nlDC0-RKD3xCXPx5gdQ9u3bfXsHwmQurIOQz8cD0w86ef0xOi6XuAd7mS2EUkBH-Y70FLXW91TQSWNttxgeO8E7gjzxCReok52dq9ewhs9ZuFHkdzjTa9SL3qqWnpWMUwo_uTgBjHOU8fk60aclrWBMsmnCzZ82uQewLgpainY6KRb",
+                "width": 3472
+            },
+            {
+                "height": 2250,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104200946293577281886\">Affina Dyan Setyawati</a>"
+                ],
+                "photo_reference": "AZose0nXS2L_ohkHqNQgZK8fp6cCMsURPKHrRKmmb_jqrOeyvQwOAPitb86DIalDH1NulmLnUyBFEDGAE8WmmCzPPqBM0osX13jcRQaamANIx8iHrGbRPr7vT_lup2CTGnfmdmUZ2K7ubHx09ktwixEVi0MGfchpQpntPvBEgN9VXYIaGLiQ",
+                "width": 4000
+            },
+            {
+                "height": 3472,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110595740842075411130\">djarot herdiman</a>"
+                ],
+                "photo_reference": "AZose0mnIPudsvrY80sXz0GWaBTRv5Ux4sn_ydfzZCvgGnyPCEzaHYF33itwsEwTKRJUoTsaXINmu83ieBDPoGt8zfb6owJxhQehStbOaFTw7njPuzCNTE2ehvHcXfsf0HKqvnmVrJSt-09c6QMkCvnaqI10PlkhwzHDuGGyT77tQA-k6b2w",
+                "width": 3472
+            },
+            {
+                "height": 2268,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116383398438279578573\">Robert Chris</a>"
+                ],
+                "photo_reference": "AZose0m24oerPAxBDSiDHay9y-A_hmoVdqbYtJ0S1mI5ioPXkQYLb4zCAO0pqjl6NANr60LMhVRqie2LBE6WKoKO0f-8jOBgV_5PcyYkefvYw8sZpDq56qDfeEqL_XpewXerJNuUPUm_roJWpJivyeZFEeLe5OhCzTh68UgBIOqKfrvVjRNN",
+                "width": 4032
+            },
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113148189645112029240\">reiivan</a>"
+                ],
+                "photo_reference": "AZose0m-kqc9typ_ld0CzLtNQYlne8IEqGl4Uf8G6T60bJqnE1J0YR1DEF0JmhyLvJryOanGGPP1LMom2loBB6S81HuYKVBpguGc6YoOjSIW6XfnjclLjcisivT3M5I-kmB1zCMJA6Zy5ZZsWcos7ZIQinbedBBgPM4HqY_-nKhOwQvZ6zML",
+                "width": 4000
+            },
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108701139857888766822\">Kadek Yogie</a>"
+                ],
+                "photo_reference": "AZose0kzi46OntgwyB8bgZQbt2IALV9Cslmi2OxPajZ6ox15fdR__2qHlKIo7OxQgah24KpBRsfzPMttekagg5D1A61_2te7DU8f4D9TMFFWFyir20wRjOJHgA9-omEdsO-fCFd8VAoG-BPzbLDpPnosXl4U4X3KTj0q1oI5JmTgqBcrWX36",
+                "width": 4000
+            },
+            {
+                "height": 3329,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103612735479628190908\">Aden Akbar</a>"
+                ],
+                "photo_reference": "AZose0ngoOQIHuNjBus31cC6zE9WuZyIbJQfYp7Xrz6wdQsytCuHixr2IOpzgKrw8vqKT-3-elRq69tGgB7gVpFecDA0lGVeSX3l7Fh-ERtIOuo2kkvVgqG1c0iNnFLy5GNTeqt6vpfOuj8UuOVMQdpjuirzgM9htV9SQjyejqX18_e2gS5c",
+                "width": 4385
+            },
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115410201184862389937\">Anggi Widya Pratama</a>"
+                ],
+                "photo_reference": "AZose0kuuWuqQ7Vj_GbS_gz5oscL2zrmTFeTrvigM_aaGj_4A31AhWp0DwCikU1-JkujFoJmWIFX51f5BE9NELyAK9j_jH6EpD0D7xUDrk68ICOwNLSIPdgeu3wdODKPmoVIuZdXhAyBWGNQuBxzI1_a4YG5vdwiIcLfZKlf_j7nhHWp5MtA",
+                "width": 3024
+            },
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103380456291497747908\">Dewi Intan</a>"
+                ],
+                "photo_reference": "AZose0ntLmJTH-att4VCpvQ_u2q_G_8e5Hb10NkNiiDJhDy3T-ayMfC2-m21yOV-VuEd3JXaUXNdXA6nohNndlU99Ni71YTbkLqV2G2ulwcs4M6IU0H-kMuUkv3cL2HtL_r5dbGtb3EvFGgNuLCpJcUznRBmNm_pXfHpHsgcsDNmHu3Xt0qP",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJvb0GwNhYei4R1QHPGGdxI_A",
+        "plus_code": {
+            "compound_code": "79CG+WQ Sariharjo, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+            "global_code": "6P4G79CG+WQ"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reservable": true,
+        "reviews": [
+            {
+                "author_name": "ian suhendra",
+                "author_url": "https://www.google.com/maps/contrib/103240815060357376354/reviews",
+                "language": "id",
+                "original_language": "id",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/ACB-R5T6zFLlrj0376-r_v_KOngChkIbkgZOKOqFq9p83w=s128-c0x00000000-cc-rp-mo-ba6",
+                "rating": 4,
+                "relative_time_description": "9 bulan lalu",
+                "text": "Cafe ini sempat hits setelah dipakai untuk syuting film dari filosofi kopi. Tempatnya cukup luas dengan model tradisional joglo ala jawa. Lokasi memang agak jauh dari pusat kota karena ada di daerah pinggiran tapi itu yang membuat suasanya lebih terasa asri, enak buat cari tempat nongkrong yang tidak terlalu ramai.\n\nUntuk makanannya sendiri cukup enak terus kopinya mungkin rasanya biasa ( ga tau lagi kalau yg mix ) dan presentasinya kurang. Harganya sih sekelas cafe medium high ya sama seperti kota-2 lainnya. Cuman karena hampir semua bangunan konsepnya outdoor apalagi sekitarnya byk pohon kalau malam musuhnya pasti nyamuk.",
+                "time": 1660385725,
+                "translated": false
+            },
+            {
+                "author_name": "fitri vthree",
+                "author_url": "https://www.google.com/maps/contrib/113770536420009963358/reviews",
+                "language": "id",
+                "original_language": "id",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/ACB-R5Qe2rdgVzIfiTcxO9SIi37taVootL5sQSYaRM0iVQ=s128-c0x00000000-cc-rp-mo-ba6",
+                "rating": 5,
+                "relative_time_description": "3 bulan lalu",
+                "text": "Yang suka ngopi dengan vibes adem, lawas, dan jogja banget bisa lah mampir kesini..\n\nIni tempatnya luuuaasss banget guys,,\n\nJd menurut aku design nya ini lucu.. modern classic gitu.. di dalem pendopo ala2 jogja diluar modern looks gt,, klo malam bakal lebih cozy dsn instagramable sih, lampu2 yg ada di pohon2 nya bikin tambah lucu hehehe\n\nDisediain colokan juga tapi tempat colokannya terpisah sm meja kursi yg buat d dudukin,,\n\nMereka jual tshirt gt juga\n\nAda toilet dan musholla.. remember di line atas aku bilang ini tempat luuaasss.  Yap! Musollah nya ada di ujung dan karena ini penerangannya pakai yg lampu warna orange jadi klo sendirian agak creepy wkwkwkw (buat orang yg lumayan freak out sm hantu2an.. aku takut asli tp masih bisa mikir \"eh ini kolam lucu klo ada kura2nya\" setelah liat ada kolam ikan di dalem musholah nya \ud83d\ude05 )\n\nToilet nya cuma 1 ya.. jadi mesti antri tapi bersihh  dan konsepnya lucu (udah berapakali bilang lucu aku ini \ud83e\udd2a )\n\nUntuk rasa dan harga dan porsi yaa standart lah..\n\nUntuk tempat parkir aman, luas.. baik unk r4 atau r2\n\nNote : unk foto yang aku sertakan, klo kalian liat ada menu2 yg ga ada di dalam nota, itu bukan dari filosofi kopi ya.. jadi di sini ada 1 tempat yang jual f&b juga.. krn masih 1 tempat jd bisa order di keduanya\n\nSo, semoga membantu yaa\nMet jajan dan jalan2\n\nuntuk informasi video lainnya ada di youtube channel aku mungkin kalian bisa mampir buat lihat-lihat\n\u25b6\ufe0f Fitriret channel\n\u25b6\ufe0f Fitriret short channel\n\nHappy jajan and jalanjalan guys :)",
+                "time": 1676691308,
+                "translated": false
+            },
+            {
+                "author_name": "Kurdiman Tauhid",
+                "author_url": "https://www.google.com/maps/contrib/105904078948969234318/reviews",
+                "language": "id",
+                "original_language": "id",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/ACB-R5QnyVjnd4UCfZqsyJm2_xme9rSpa1Ww5fjBCpdlrw=s128-c0x00000000-cc-rp-mo-ba5",
+                "rating": 4,
+                "relative_time_description": "11 bulan lalu",
+                "text": "Filosofi kopi jogja\nMengusung konsep rumah asli org jogja yang rumahnya terkait tentang kayu,ada 4 -5 rumah berbentuk pendopo disini, masing2 bisa dipakai untuk menikmati kopi sembari mengobrol atau melakukan aktivitas\n\nBuka dari jam operasional 11 pagi hingga 23.00 malam\n\nMenu cukup lengkap sembari disampingnya ada juga yang menjual snack dan makanan berat. Harga termasuk lumayan mahal tp sebanding dengan sajian kopinya,dilidah terasa ringan tapi cukup asam,ciri khas kopi arabica,oh iya disini jual semua full kopi arabica,seperti tuwis, dan kerinci,1 lagi saya lupa jenis kopi apa\n\nInterior sangat memanjakan mata,berasa sedang ada dirumah org jogja. Senang berkunjung disini,staff ramag,tidak kepo jika kita duduk terlalu lama disini.interior ,ornamen lamlu,tata letak, sangat enak duduk disini, sayang colokan listrik di pendopo saya tidak cukup banyak, toilet tradisionil memakai gayung dsn ember,tapi masi sangat pantas,kebersihan cukup baik.\n\nUntuk teman2 yang tingal dipusat kota jogja seperti malioboro, harus cukup extra bersabar(memakai motor), karna lama perjalan bisa menempuh 30-45 menit dr pusat kota jogja.\n\nSuasana siang ok dan ckup bagus\nTapi terlihat lebih exotis ketika berkunjung sehabis magrib, karyawan semua sangat ramah dan tidak membeda bedakan setiap pelangan yang datang\n\nLucunya setiap org baru yang datang,pasti ada moment memotret baik dengan ponsel atau kamera digital.\n\nOh iya,disini tidak menerima pembayaran tunai disini menerima ovo,qris,debit.",
+                "time": 1656100281,
+                "translated": false
+            },
+            {
+                "author_name": "Andi Muhlis",
+                "author_url": "https://www.google.com/maps/contrib/105413309755686977867/reviews",
+                "language": "id",
+                "original_language": "id",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/ACB-R5RYU6nGyaSgu1uMD9hVES5gcyitkr6UtqnhK_k91g=s128-c0x00000000-cc-rp-mo-ba6",
+                "rating": 4,
+                "relative_time_description": "9 bulan lalu",
+                "text": "Tempat enak buat nongki-nongki dan ngobrol bareng teman dalam kelompok kecil. Kalau masalah kopi, sudah tidak perlu dipertanyakan lagi. Harga sepadan dengan kualitas yang disajikan. Sayangnya pas saya ke sana, manual brew tidak tersedia.\nAtmosfir di outdoor area berkesan oldies dengan mebeler2 tua/bekas. Sayangnya ada jalur jalan di tengah-tengah kafe yang diakses warga sekitar yang kadang mengganggu karena debu yang ditimbulkan.\nParkir tersedia dalam ukuran yang luas, menampung mobil dan motor dalam jumlah banyak (>15 mobil).\nKebersihan toilet juga perlu improvement besar. Spooky dan kotor.",
+                "time": 1659848482,
+                "translated": false
+            },
+            {
+                "author_name": "Rendy Rian Sandhika",
+                "author_url": "https://www.google.com/maps/contrib/105358436459077343016/reviews",
+                "language": "id",
+                "original_language": "id",
+                "profile_photo_url": "https://lh3.googleusercontent.com/a-/ACB-R5Rj3KnlJzyS8SJcAYeConZDgF97uu2DRnd0wXNMDQ=s128-c0x00000000-cc-rp-mo-ba3",
+                "rating": 4,
+                "relative_time_description": "7 bulan lalu",
+                "text": "Ke Filosofi Kopi karena abis nonton filsof, jadi penasaran sama suasana nya kayak gimana. Kesan pertama dateng, buat cari parkir ndausah khawatir lagi dan aman ada yg jagain, pertama kali masuk langsung di arahin mau duduk dimana, karena emang tempat nya luas ya, ada outdoor dan semi outdoor. Pas mesen makan dan minum ni, baru aja selesai bayar, minumannya udah jadi, pas itu juga langsung diambil bawa ke meja. Makanannya nyobain ayam asam manis sama salted egg, dua menu ini mungkin rekomen untuk di coba, kalau soal coffee dan non-coffee mungkin selera beda2, tp td nyobain opsi dua dua nya enak\ud83d\udc4d.\nUntuk semua pelayanan sangat baik, hanya saja blum bisa bintang 5 ni, karena pas ke mushola mau maghriban keadaan mushola nya gelap, mau coba nyalain lampu muter2 nyari kontaknya dimana hehe. Stlh itu ke toilet yg posisi nya ada di joglo pas samping mushola, mungkin saran sdikit toiletnya bisa lebih dibersihkan aja.\nMungkin itu, dan terlepas dari dua hal td, untuk makanan dan minuman serta pelayanan sangat baik\ud83d\udc4d\ud83d\udc4d",
+                "time": 1664045789,
+                "translated": false
+            }
+        ],
+        "serves_beer": false,
+        "serves_breakfast": true,
+        "serves_brunch": true,
+        "serves_dinner": true,
+        "serves_lunch": true,
+        "serves_wine": false,
+        "takeout": true,
+        "types": [
+            "cafe",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "url": "https://maps.google.com/?cid=17303798880899367381",
+        "user_ratings_total": 10648,
+        "utc_offset": 420,
+        "vicinity": "Jalan Pandhawa No.001/17, Tegal Rejo, Sariharjo",
+        "website": "http://www.filosofikopi.id/",
+        "wheelchair_accessible_entrance": false
+    },
+    "status": "OK"
+}
