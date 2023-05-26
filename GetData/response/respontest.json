@@ -1,0 +1,1037 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AZose0mUIZPOnHvVEO1T-nBpFP7Ge65PiOxeYprhjVuuAIWOHCgw8EYlJhGBA-FLHHDJ0Yjq3NU7JsilT_XIQF_S61GvhCR-LaD_wi0AlmjNdj_8X8gbG30krT6bdnFl_fZddrW1vydtyTuEpm10sbf8Co7npiHofK3_DjI-Tw01HMzTlz7ze0IjZ72B57vr29j12JThzCaIxXym_XUaWw-4V75Ugw7LZIxQISv5_gDWgQSP0AUVL0GSeWjtXSinORv-7OI4XgWWkKosb94EojhTIlwSDxKIg9p7rSAN6SP4lSLBYvPiXfAe9EmkqBbXKm6nJTWUMLXLeHWaMyzxuF-g1vfpmog8pmNgqxgNi-k1-Ztt7N0UkcihM93gBcVEnRchLLijLpw6mdN8ZWTF7itlqTvL7yFL0uWVmf431oMZlPU",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "69M3+4M4, Jl. Jambon, Kragilan, Sinduadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55284",
+            "geometry": {
+                "location": {
+                    "lat": -7.767198199999999,
+                    "lng": 110.3542466
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.765972820107278,
+                        "lng": 110.3556293298927
+                    },
+                    "southwest": {
+                        "lat": -7.768672479892722,
+                        "lng": 110.3529296701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Jogja Festival Resto And Fun Cafe",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102320396648416440699\">A Google User</a>"
+                    ],
+                    "photo_reference": "AZose0mSIiDpTOXRDo6lGEGwOePeVlLyx3cHPOr0gQgrRE4iB-QJb8g0s1SHIxRwMFtW8TFRxBnPwiYjVwtGhFGkhO95AANohSgcLQYsHPTp4a2OeRoZEFik0OCtc2rflLEBa6Fn1cwIo4nmDFYX2OaIf4NNONMTMEXFnX008cSkQAlBvA4W",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJCROHI2hYei4RuiDYVsDvDtg",
+            "rating": 4.5,
+            "reference": "ChIJCROHI2hYei4RuiDYVsDvDtg",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 32
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jl. P. Mangkubumi No.52, Gowongan, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55233",
+            "geometry": {
+                "location": {
+                    "lat": -7.784564599999999,
+                    "lng": 110.3671832
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.783359970107277,
+                        "lng": 110.3684078298927
+                    },
+                    "southwest": {
+                        "lat": -7.786059629892721,
+                        "lng": 110.3657081701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Roaster And Bear Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 400,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105014381656380185346\">A Google User</a>"
+                    ],
+                    "photo_reference": "AZose0kJCz84mytwBwxTCoBUmvUfKVZO0BwYresR8D_NZV22vHFJw1WBWvvRtGrtRZnh_TPdFijHz4Almu4nkNaWQ_rGT1Tz6lz15Q01KyDMWqUDVw2OtVAIO5-cYuX2gr_oPz-v54E4STFJzq26RAD1ow9Uxv5yWEoZiRQl-SMqNc1dlfR6",
+                    "width": 533
+                }
+            ],
+            "place_id": "ChIJd5Q4fDBYei4RG6uDmHe8xXs",
+            "plus_code": {
+                "compound_code": "6988+5V Gowongan, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G6988+5V"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJd5Q4fDBYei4RG6uDmHe8xXs",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5232
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jl. Sajiono No.13, Kotabaru, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55224",
+            "geometry": {
+                "location": {
+                    "lat": -7.7856661,
+                    "lng": 110.3736789
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.784378970107277,
+                        "lng": 110.3750407298927
+                    },
+                    "southwest": {
+                        "lat": -7.787078629892721,
+                        "lng": 110.3723410701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Kalluna - Instagrammable Restaurant & Meeting Room",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117224310977294914628\">A Google User</a>"
+                    ],
+                    "photo_reference": "AZose0mpY6nBSJ-1B9Juo6ag_jvm_CeOSQ416NZhhWKYNHJfXM6xX-mEOhDBkvbR4BlUhfwT-NTZSbitFh1lY7pXTxUCClR0rvftRvsZGtaRut5olbknJmcsqyo4Y3bx_JifThkRAwa-wOvYLeF0A4KpfB_nldJFjeBNNa9fGmGAZOzIizKT",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJI_Wmq3FZei4R7SYDsvUHPAM",
+            "plus_code": {
+                "compound_code": "697F+PF Kotabaru, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G697F+PF"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJI_Wmq3FZei4R7SYDsvUHPAM",
+            "types": [
+                "restaurant",
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2768
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "59X3+RHV, Jl. Prof. DR. Ki Amri Yahya No.2, Pakuncen, Wirobrajan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55253",
+            "geometry": {
+                "location": {
+                    "lat": -7.8001571,
+                    "lng": 110.3541675
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.798816970107278,
+                        "lng": 110.3554653298927
+                    },
+                    "southwest": {
+                        "lat": -7.801516629892721,
+                        "lng": 110.3527656701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Secret Garden Coffee and Chocolate",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117635330470448635158\">Bagus Sulistiono</a>"
+                    ],
+                    "photo_reference": "AZose0lXZYqQXkhQ9nyEaMMudx9Cs4p3347AuuLCKKNf-eCvXoDH4dlkkVGklZo0XcjT5uaMKb-TAgJ-8YfmNFZ2jkN0DGPjZhPL95CaEOT78cpT8u29w-xXZdiME7cSX2ajVqx0BoadX3bQWSMEe_Hnt8VJyEybvG5RwWkacpcNcRcDJyM1",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJBxNPyfRXei4RQJmFD9PILdY",
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJBxNPyfRXei4RQJmFD9PILdY",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 3776
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jl. Polowijan, Patehan, Kecamatan Kraton, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55133",
+            "geometry": {
+                "location": {
+                    "lat": -7.808708800000001,
+                    "lng": 110.3599939
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.807350720107277,
+                        "lng": 110.3613452298927
+                    },
+                    "southwest": {
+                        "lat": -7.810050379892721,
+                        "lng": 110.3586455701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Water castle cafe",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1487,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103176703687685837451\">A Google User</a>"
+                    ],
+                    "photo_reference": "AZose0kvdlyGx7Ms73YPh07Pn_aUwXjuh-EP17fxTVdk5wdNRJBmoWlFYubP15lzuzGDvpvYx-H3pRtWsNo2c0HBne55v3bfdwoFahyxWKwgFNe25eTiyp0aCytmx9maKHvsNdwUlln5JqloQQbBFFCTsf60ZDeUUtSxFPl-3Ua4JQlbCFAJ",
+                    "width": 1530
+                }
+            ],
+            "place_id": "ChIJzfDAL5JXei4RB_2bokRgwJ0",
+            "plus_code": {
+                "compound_code": "59R5+GX Patehan, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G59R5+GX"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJzfDAL5JXei4RB_2bokRgwJ0",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 306
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jl. Wiratama No.22, Tegalrejo, Kec. Tegalrejo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55244",
+            "geometry": {
+                "location": {
+                    "lat": -7.792269699999999,
+                    "lng": 110.3512304
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.790960120107275,
+                        "lng": 110.3525739798927
+                    },
+                    "southwest": {
+                        "lat": -7.793659779892719,
+                        "lng": 110.3498743201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "DOUBLE O Resto and Cafe",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110531701694428828283\">Nathanael Hansen</a>"
+                    ],
+                    "photo_reference": "AZose0kdxR8hQzdoxKi7Lk9wuYcmyU16Cw9y4zdKunwRSA8bWwajI34Dhtryc4hb-W7ZtNIpcUFDJnc7PFkKPeNCwPQ-9mNm8ohzQx6FgEeFY7AVURv5PcIncD1fvt6TszZnAwRuoA-nO07kyHmbeywUBLA0EWndbkY1befPraKzk9kT4z_K",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJodYTqNJZei4R_qUnGfLotzw",
+            "plus_code": {
+                "compound_code": "6952+3F Tegalrejo, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G6952+3F"
+            },
+            "rating": 4.7,
+            "reference": "ChIJodYTqNJZei4R_qUnGfLotzw",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "bar",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 120
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jl. HOS Cokroaminoto No.199, Tegalrejo, Kec. Tegalrejo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55244",
+            "geometry": {
+                "location": {
+                    "lat": -7.785463399999998,
+                    "lng": 110.3524446
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.784112020107277,
+                        "lng": 110.3538782298927
+                    },
+                    "southwest": {
+                        "lat": -7.786811679892721,
+                        "lng": 110.3511785701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Lecker Rumah Kopi & Resto",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 455,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102128915868791885927\">A Google User</a>"
+                    ],
+                    "photo_reference": "AZose0nMQrGac6tlRtoffC5oNZDp7uA2NR9WrutGh0ATZgOCaVyRi0twlTwLqPS0xayBU_v9qubNDvuQUHGfps_vhBpP7hJU1aIDfTX1-k98AwqnxJk9syb_8MUUQP5DMGpWezBCaEPR6RahhcBXCz-6n-cpjr6xnt9K8VIjzftnlRVLvHa6",
+                    "width": 683
+                }
+            ],
+            "place_id": "ChIJJfyKmRdYei4R-MR1ehmXhmo",
+            "plus_code": {
+                "compound_code": "6972+RX Tegalrejo, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G6972+RX"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJJfyKmRdYei4R-MR1ehmXhmo",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 726
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jl. KH. Ahmad Dahlan No.71, RW.08, Notoprajan, Ngampilan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55262",
+            "geometry": {
+                "location": {
+                    "lat": -7.801567500000001,
+                    "lng": 110.3603353
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.800140070107278,
+                        "lng": 110.3616938798927
+                    },
+                    "southwest": {
+                        "lat": -7.802839729892722,
+                        "lng": 110.3589942201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "POENOKAWAN CAFE RESTO & GALLERY",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107350538182485044833\">Feren Venessa</a>"
+                    ],
+                    "photo_reference": "AZose0nt8yiN84DGaIRuZYPLvGXWzbR73wP5lntSJmAGWt02F8hJgX01sxQ1xvuNbtpGTfTCq5xWPswe3_QNgOzMK4X2sEODKxTTE-kPS-kCz_a-HUUfKlmwNMAZG-r6EaZBcMWihmLDNfYOpNNqeVSMoQPpXKd2ChdqWvGxTcwN5A5_fFrj",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJjf3V6rxXei4R0lNHoFphUss",
+            "plus_code": {
+                "compound_code": "59X6+94 Notoprajan, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G59X6+94"
+            },
+            "rating": 4.6,
+            "reference": "ChIJjf3V6rxXei4R0lNHoFphUss",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 131
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jl. Pangeran Diponegoro No.2, Gowongan, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55233",
+            "geometry": {
+                "location": {
+                    "lat": -7.7826892,
+                    "lng": 110.366864
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.781389920107279,
+                        "lng": 110.3683255798927
+                    },
+                    "southwest": {
+                        "lat": -7.784089579892723,
+                        "lng": 110.3656259201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Kebon Ndalem Coffee & Eatery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1824,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110402720686245531415\">arysia andhina</a>"
+                    ],
+                    "photo_reference": "AZose0md3O5yk9IVXjnmWjXiIuNq_k7VNVjtdS57UKUEQUhOMvvUaSFZRqKKNO5FE2GDM61qV7ESiUEEKsLd8I5_ii7jtWKQAIG-ZDuv66e2AYVPZVekKTHAIub3U_X-8rwgwIXjdJ2Qlyt9Df1jQ2RoptaavntgmC61NKN3kKov53N5FOz5",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJj9cfEiVZei4RvtOqDmIKyVE",
+            "plus_code": {
+                "compound_code": "6988+WP Gowongan, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G6988+WP"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJj9cfEiVZei4RvtOqDmIKyVE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3368
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jl. Batikan No.9, Pandeyan, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55161",
+            "geometry": {
+                "location": {
+                    "lat": -7.8155218,
+                    "lng": 110.3837005
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.814184220107279,
+                        "lng": 110.3851030298927
+                    },
+                    "southwest": {
+                        "lat": -7.816883879892723,
+                        "lng": 110.3824033701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Palms Resto & Cafe",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3998,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101394984554642682312\">A Google User</a>"
+                    ],
+                    "photo_reference": "AZose0mOculpvNWsI-CkD5KJr7_qL0PpAvAPeFbjl4Dq-yuGPTAO8BFVX7Eiob-lykLIwD8kF2FEfvJaQMDQXynFxt3YRd8IiZWyCyLTiPS0FPld1Ta0rt0dCJLOCzGkAMTzjfzXxrtVTwIMQVmgwRJeBv0RPu0X5oqn52NNpa3AVm3Swf-n",
+                    "width": 2998
+                }
+            ],
+            "place_id": "ChIJ4xIBDHdXei4RK03gVuROha8",
+            "plus_code": {
+                "compound_code": "59MM+QH Pandeyan, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G59MM+QH"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ4xIBDHdXei4RK03gVuROha8",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 42
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jl. Prawirotaman 2 No.613, Brontokusuman, Kec. Mergangsan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55153",
+            "geometry": {
+                "location": {
+                    "lat": -7.820098400000001,
+                    "lng": 110.371994
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.818804120107279,
+                        "lng": 110.3733368798927
+                    },
+                    "southwest": {
+                        "lat": -7.821503779892723,
+                        "lng": 110.3706372201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Warung Lawas",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102373990179795677546\">ari prasetya</a>"
+                    ],
+                    "photo_reference": "AZose0mc3Rqx-iUuxJ7pIlO3p1nyuhpsKNwFH0xtOFcTKM2awvt6CACO6_qJdxPWNjG_-8DyO2dk5FC8WUAR_el_tGHv2ziuPjBQ8zDGULR5vuJa2VOlk0-4lYJ4bRBivCB5rediLsBw-CLYs3KrNGSYYfpc37tLK588zcRh43ZvMFJWGEUQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ1T2RU6JXei4R2MgsNDzkoJY",
+            "plus_code": {
+                "compound_code": "59HC+XQ Brontokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G59HC+XQ"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ1T2RU6JXei4R2MgsNDzkoJY",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 495
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jl. Sosrowijayan No.1/113, Sosromenduran, Gedong Tengen, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55271",
+            "geometry": {
+                "location": {
+                    "lat": -7.791829099999999,
+                    "lng": 110.3655863
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.790474720107278,
+                        "lng": 110.3669338298927
+                    },
+                    "southwest": {
+                        "lat": -7.793174379892722,
+                        "lng": 110.3642341701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Atap Cafe & Resto",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJy1axFiZYei4RwcUhLj7ow3o",
+            "plus_code": {
+                "compound_code": "6958+66 Sosromenduran, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G6958+66"
+            },
+            "rating": 5,
+            "reference": "ChIJy1axFiZYei4RwcUhLj7ow3o",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jl. Prawirotaman No.30, Brontokusuman, Kec. Mergangsan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55153",
+            "geometry": {
+                "location": {
+                    "lat": -7.8193508,
+                    "lng": 110.3715262
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.817952020107278,
+                        "lng": 110.3728705298927
+                    },
+                    "southwest": {
+                        "lat": -7.820651679892721,
+                        "lng": 110.3701708701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "ViaVia Jogja",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2184,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106219059152738915677\">A Google User</a>"
+                    ],
+                    "photo_reference": "AZose0mwZqxPIrj_h9Ue3ib_3PzFdr81ikMugYwXzSNrTJlMEMIsiR1b3tbKV_yCE4rkYMh81Dn_wH5N7EkDGcina52CTyWcKzd-8ei84ZWd4ZA6EradtH6HiOKmasUko7zvo4N1_rafSSiN-v0_mWxyhQfYIXLypt_hZiL3uUoUJa0qs5XZ",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ38IqyaNXei4R-Nkurx7opBA",
+            "plus_code": {
+                "compound_code": "59JC+7J Brontokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G59JC+7J"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJ38IqyaNXei4R-Nkurx7opBA",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3142
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jl. Malioboro No.42, Suryatmajan, Kec. Danurejan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55271",
+            "geometry": {
+                "location": {
+                    "lat": -7.7939098,
+                    "lng": 110.3658277
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.792552020107278,
+                        "lng": 110.3671091298927
+                    },
+                    "southwest": {
+                        "lat": -7.795251679892722,
+                        "lng": 110.3644094701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Kala Jumpa",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2028,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112603867468027236274\">Hendi J</a>"
+                    ],
+                    "photo_reference": "AZose0myCFBPbV7d3fnE9F2-_PE2koMU1CIuvXQmjAlMjofa0ihcxpSJ8fl-uy0Sjzwt0I4ZFawXD_JAwDhfCdr8fGI3ZimmEb7QgvWsEln4pyKmDXCw6f1KmbjwEd6Vj3YXiDNPEwj1xKnhORPop5_w5xUFDFTZFhFvC9IKD871lfmg9Xms",
+                    "width": 2944
+                }
+            ],
+            "place_id": "ChIJG7Ju9yZZei4Rh62lxIUyeJ8",
+            "plus_code": {
+                "compound_code": "6948+C8 Suryatmajan, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G6948+C8"
+            },
+            "rating": 4.5,
+            "reference": "ChIJG7Ju9yZZei4Rh62lxIUyeJ8",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 106
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Gg. Teratai No.14a, Baciro, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55225",
+            "geometry": {
+                "location": {
+                    "lat": -7.7951232,
+                    "lng": 110.3806529
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.793759520107279,
+                        "lng": 110.3820492298927
+                    },
+                    "southwest": {
+                        "lat": -7.796459179892723,
+                        "lng": 110.3793495701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "D'Coff Jogja",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104073804962228550293\">Ivan Soelarso</a>"
+                    ],
+                    "photo_reference": "AZose0kSLrSx5dMqMqrMJVgrHUlfLJV_i0AvOHZYdCFn1qDCYM_zR-8MRlnH2-q-P8Qg-WMmFa5AGrTftDYiPar-jX6xM1SYHwH9EYThqJ0JxuEcKM9plf7zU-70EO8YIg1TR8pynjTfJ3U2N868thdaA9gHdeBV8Z03uVHgbNvOCI3c8umt",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJA-nXIPtZei4ROEn4CHq887E",
+            "plus_code": {
+                "compound_code": "693J+X7 Baciro, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G693J+X7"
+            },
+            "rating": 4.7,
+            "reference": "ChIJA-nXIPtZei4ROEn4CHq887E",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 25
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jl. Abu Bakar Ali No.24-26, Kotabaru, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55224",
+            "geometry": {
+                "location": {
+                    "lat": -7.788160199999999,
+                    "lng": 110.372794
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.786695920107277,
+                        "lng": 110.3741110798927
+                    },
+                    "southwest": {
+                        "lat": -7.789395579892721,
+                        "lng": 110.3714114201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Legend Coffee",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3468,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115261363078304513656\">Asher Huex</a>"
+                    ],
+                    "photo_reference": "AZose0mZU-ffeHWjwWjyxAitoYC60_r2V5gdm4vhZTZBbolVT_-Z7GfOaMkRW7gCg_2ml6PH2n4FusMzylZvTVLejaVlxkFaT5WD3eosivS4nS2SN11i7YFxuaISk0tZn89ufp4bXpiu8dmn5pHgbLyb3r54FDsRGHbL5AWNzBn3_rBaszDw",
+                    "width": 4624
+                }
+            ],
+            "place_id": "ChIJRxONwS5Yei4RcwWqzjnGrzQ",
+            "plus_code": {
+                "compound_code": "696F+P4 Kotabaru, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G696F+P4"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJRxONwS5Yei4RcwWqzjnGrzQ",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10130
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jl. Tirtodipuran No.17C, Mantrijeron, Kec. Mantrijeron, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55143",
+            "geometry": {
+                "location": {
+                    "lat": -7.8183132,
+                    "lng": 110.3647868
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.817040720107279,
+                        "lng": 110.3660904798927
+                    },
+                    "southwest": {
+                        "lat": -7.819740379892723,
+                        "lng": 110.3633908201073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Tujuan",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111405985339019215301\">asep pujangga</a>"
+                    ],
+                    "photo_reference": "AZose0m78WVzubTm2UO90TXdx6dNLT-C9KGmskyZzYAH86hz1rGFw9i2igGYJhl32dPAON4v7XRIZz3PMOBZOfwFZTqyP0Zk_eFjQaq9ayRNNueAEjjL5sMHXwo5veW1ohGXqZQld6P4nWXg-pBpS3lKAPfyNdcp8LRo6-WOPaTJccDEm9mf",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJG5Y1YEpXei4R75Tm0vT5G84",
+            "plus_code": {
+                "compound_code": "59J7+MW Mantrijeron, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G59J7+MW"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJG5Y1YEpXei4R75Tm0vT5G84",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1130
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jl. Parangtritis No.64 B, Mantrijeron, Kec. Mantrijeron, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55154",
+            "geometry": {
+                "location": {
+                    "lat": -7.819220400000001,
+                    "lng": 110.3679881
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.817874670107278,
+                        "lng": 110.3693857298927
+                    },
+                    "southwest": {
+                        "lat": -7.820574329892722,
+                        "lng": 110.3666860701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Made Cafe",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1840,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114157563683864812958\">bobbykurwet</a>"
+                    ],
+                    "photo_reference": "AZose0kiWu-LnRslQs5cpc0TMI8UsSlnqItoLJfn5YEWUoppsUNv68gYvnyBiAq0_CE39NkArjWQnRoPrb1hOB2Z3BuZbqmP7VckMBLWMTOe8PhyGfV01plehnLu0gkVjQp-U4z7wEQvL-OFSqDr7_JrCVU5v2nViBflv7rjpfIJLSz7ypPW",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJszORIKNXei4RjDQbK97emDk",
+            "plus_code": {
+                "compound_code": "59J9+85 Mantrijeron, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G59J9+85"
+            },
+            "rating": 4.5,
+            "reference": "ChIJszORIKNXei4RjDQbK97emDk",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 112
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Swiss-Belhotel Area, Jl. Jend. Sudirman No.69, Terban, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55224",
+            "geometry": {
+                "location": {
+                    "lat": -7.7827526,
+                    "lng": 110.3742093
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.781457520107277,
+                        "lng": 110.3755605298927
+                    },
+                    "southwest": {
+                        "lat": -7.784157179892721,
+                        "lng": 110.3728608701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Swiss Cafe",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105974663279974230059\">Anil</a>"
+                    ],
+                    "photo_reference": "AZose0kKJqsIL2XRXfMAB81ZIJWWQIxKD7MvcDJ4ElI_L2xJvOXkiCp2bGdhfOF_M5cC8AQQTZQb1G_SakeqO2BFV_Em6G4lzcWaOoIBcUybbB_zAIdyqFlI24IRF90JhhNf-pXLP76ewAsu5Bv89PrI0HywjMw-EDkCeDckxyRs_9Y7nOT7",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJgcTwSjJYei4RjTeFmZqkQyg",
+            "plus_code": {
+                "compound_code": "698F+VM Terban, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G698F+VM"
+            },
+            "rating": 4.2,
+            "reference": "ChIJgcTwSjJYei4RjTeFmZqkQyg",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 20
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Jl. Patehan Lor No.8, Patehan, Kecamatan Kraton, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55133",
+            "geometry": {
+                "location": {
+                    "lat": -7.811946,
+                    "lng": 110.3619304
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.810671020107279,
+                        "lng": 110.3632733298927
+                    },
+                    "southwest": {
+                        "lat": -7.813370679892722,
+                        "lng": 110.3605736701073
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "RT Cafe",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 455,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102128915868791885927\">A Google User</a>"
+                    ],
+                    "photo_reference": "AZose0lEMEV88ICwDxTwVVgjkxXOadm69ssLXpdkgErVTh-51iURv9qOUYf_Z3cYNsOX0G1PT4SZ0Ks_XD6USNNwkp8s1veuALH5RBe76afDhZmoI0D3bM0dlCzg2ha0wNsqHgliiDS-T-xuphFhc8EGb7aacIa9xFSCT3fP2cUOFkvvOetG",
+                    "width": 683
+                }
+            ],
+            "place_id": "ChIJ12iZq5ZXei4RgQuh1QR2C3c",
+            "plus_code": {
+                "compound_code": "59Q6+6Q Patehan, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G59Q6+6Q"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJ12iZq5ZXei4RgQuh1QR2C3c",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 906
+        }
+    ],
+    "status": "OK"
+}

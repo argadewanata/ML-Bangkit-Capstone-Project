@@ -29,7 +29,7 @@ response = requests.get(CITY_URL, params=params)
 data = response.json()
 
 # Save data to JSON file
-with open("./response/1City_v2_all_fields.json", "w") as file:
+with open("./response/respontest.json", "w") as file:
     json.dump(data, file)
 
 print("DONE!")
