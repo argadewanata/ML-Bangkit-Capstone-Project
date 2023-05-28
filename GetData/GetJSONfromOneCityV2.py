@@ -7,7 +7,7 @@ import os
 
 # Define constants
 API_KEY = "AIzaSyAnZNq3mo7LON6UyvVbvnqum-wzxtV31Nk"
-QUERY = "kafe atau restoran di Yogyakarta"
+QUERY = "kafe di Yogyakarta"
 RADIUS = 50000  # 50 km
 LANGUAGE = "id"
 REGION = "id"
