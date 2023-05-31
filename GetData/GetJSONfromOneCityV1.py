@@ -7,7 +7,7 @@ import json
 import os
 
 # Define constants
-API_KEY = "AIzaSyAnZNq3mo7LON6UyvVbvnqum-wzxtV31Nk"
+API_KEY = "your-api-key"
 QUERY = "kafe atau restoran di Yogyakarta"
 RADIUS = 50000  # 50 km
 LANGUAGE = "id"
