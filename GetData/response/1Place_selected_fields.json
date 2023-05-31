@@ -172,12 +172,12 @@
         "serves_wine": false,
         "types": [
             "cafe",
-            "store",
-            "food",
             "point_of_interest",
+            "food",
+            "store",
             "establishment"
         ],
-        "user_ratings_total": 10648,
+        "user_ratings_total": 10649,
         "website": "http://www.filosofikopi.id/",
         "wheelchair_accessible_entrance": false
     },
