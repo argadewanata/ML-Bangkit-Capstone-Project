@@ -6,7 +6,7 @@ import os
 # Define constants
 REGION = "id"
 LANGUAGE = "id"
-API_KEY = "AIzaSyAnZNq3mo7LON6UyvVbvnqum-wzxtV31Nk"
+API_KEY = "your-api-key"
 PLACE_ID = "ChIJvb0GwNhYei4R1QHPGGdxI_A"  # Filosopi Kopi Jogja
 PLACE_URL = "https://maps.googleapis.com/maps/api/place/details/json"
 
@@ -34,8 +34,8 @@ all_possible_fields = basic_category + contact_category + atmosphere_category
 # Define parameters
 params = {
     "place_id": PLACE_ID,
-    # "fields": ','.join(all_possible_fields),
-    "fields": ','.join(show2android_fields),
+    "fields": ','.join(all_possible_fields),
+    # "fields": ','.join(show2android_fields),
     "key": API_KEY,
     "language": LANGUAGE,
     "region": REGION,
@@ -55,7 +55,7 @@ if not os.path.exists(directory):
     os.makedirs(directory)
 
 # Save the response as a JSON file
-file_path = os.path.join(directory, "1Place_selected_fields.json")
+file_path = os.path.join(directory, "1Place_all_fields.json")
 with open(file_path, "w") as file:
     json.dump(data, file)
 

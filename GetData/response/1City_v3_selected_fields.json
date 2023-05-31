@@ -1,0 +1,1024 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AZose0mGE2Q3YWPTGGmannBPn49LDvuvUo7XucG9fWwbXPc9nnbni9-4nkO3lIUrgM5PbyEacJWMxcdsh0YyN_pWg-l-_E8YF86tf09daDhe5BRoPLheMHubh5C47nqNl8MGdipBpQ05HwXQRrpScZkGnMlifVVAgMinWzE7-28W-RX990RARNxXT_GYXISTWncyxvpuZWEfs4YZ4E7NS0AeoseBTJdVCheZYldSX9QXxcFpaFcXqGCRnp7QgE7G2isUQysLsUlrgvg6nOf3SyczTp8DkNanMNXNJF-sV0VHaZSODGBflDnB-EpaVtBrhRZj9o0A0SSz185IFN8C1zz8COvf-E2Jw7iWG08JRbMrCJCgFxHXUqchwBS5JCoYU3dExM5R2XMAzK4BHxWfV-qDZtgmjqW18oACnRxkP4YYBs2NH_eog3mAaJWkivlzYho",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": -7.7802114,
+                    "lng": 110.3879623
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.778881969708498,
+                        "lng": 110.3894236302915
+                    },
+                    "southwest": {
+                        "lat": -7.781579930291501,
+                        "lng": 110.3867256697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "All Nite & Day Hotel Yogyakarta - Gejayan",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 450,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108683803638531700045\">All Nite &amp; Day Hotel Yogyakarta - Gejayan</a>"
+                    ],
+                    "photo_reference": "AZose0k1v8alM-ee99QvXU0pmBgxEFLSFntokHs_sEl8_uyB5_Jy2zJ4TgUZTEsLwyrKX7l3fIfwBVFbF4uc60051PTMxVVbCmUgsEVURw9HHlKGpxr78R2uy586bNx56fYh1-Sp_wcks_SMm2RIwXG9HPfccwKo2kk8OhdeomE-HWUVmPA",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJvT4-G89Zei4Rgs8jyOvV5yo",
+            "plus_code": {
+                "compound_code": "699Q+W5 Klitren, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G699Q+W5"
+            },
+            "rating": 4.2,
+            "reference": "ChIJvT4-G89Zei4Rgs8jyOvV5yo",
+            "scope": "GOOGLE",
+            "types": [
+                "parking",
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3310,
+            "vicinity": "Jalan Affandi No.17C, Klitren"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": -7.786884800000002,
+                    "lng": 110.3582825
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.785568819708498,
+                        "lng": 110.3596363302915
+                    },
+                    "southwest": {
+                        "lat": -7.788266780291503,
+                        "lng": 110.3569383697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Rumah Makan Kawanua",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 750,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111481117415252663000\">Rumah Makan Kawanua</a>"
+                    ],
+                    "photo_reference": "AZose0n5o684ULMAtwnEZdxJrH8kpSWENYy3L4RG1XbKTAs4-owWRp8yto519ilFL7iByov-83uYq2IYIEM2i5HlYSH6OEaYsoQybrVAyt6CMmTR0i-kShVjmqXW2BWHhOkAadOZV_KmnpzzzF8yvzOv3JGq9FMm9oUBydzY9c9KVavhQPGP",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJbSgMJSNYei4RA9j5Sx0g8bg",
+            "plus_code": {
+                "compound_code": "6975+68 Bumijo, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G6975+68"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJbSgMJSNYei4RA9j5Sx0g8bg",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 317,
+            "vicinity": "Bumijo, Jalan Tentara Zeni Pelajar Gg Flamboyan JT/I 969, Bumijo"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": -7.791649499999999,
+                    "lng": 110.3619749
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.790264819708498,
+                        "lng": 110.3633266302915
+                    },
+                    "southwest": {
+                        "lat": -7.792962780291502,
+                        "lng": 110.3606286697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Mie Ayam 69",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJNRlaoyZYei4RGeFf-gXEApU",
+            "plus_code": {
+                "compound_code": "6956+8Q Sosromenduran, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G6956+8Q"
+            },
+            "rating": 4.6,
+            "reference": "ChIJNRlaoyZYei4RGeFf-gXEApU",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "Jalan Sosrowijayan No.69, Sosromenduran"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": -7.7852315,
+                    "lng": 110.3525086
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.783886169708498,
+                        "lng": 110.3539177302915
+                    },
+                    "southwest": {
+                        "lat": -7.786584130291502,
+                        "lng": 110.3512197697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Pecel 57",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110925084326847964596\">sinta dewi</a>"
+                    ],
+                    "photo_reference": "AZose0kv7EOSMPdJpRx_8XuovYP4gkRmk0-ArTIrV5-0hqx8GPSjfo8nkRFhIGOSpU6z30jpMAhvNtvuPissBQxF9TIHPosWwrHXRdrUzYoWanyr3R8BLQKVM0PvYBQ1NVNkITfWr6XScqmSQ7EdQovJqnTEAaKfV9B7R6ZvxEPNeIEmxEJ8",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJL_EXmBdYei4RUdI4LwSgWbQ",
+            "plus_code": {
+                "compound_code": "6973+W2 Tegalrejo, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G6973+W2"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJL_EXmBdYei4RUdI4LwSgWbQ",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1027,
+            "vicinity": "Jalan HOS Cokroaminoto No.203, Tegalrejo"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": -7.797589500000001,
+                    "lng": 110.3650617
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.796249369708499,
+                        "lng": 110.3664882302915
+                    },
+                    "southwest": {
+                        "lat": -7.798947330291504,
+                        "lng": 110.3637902697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Sekar Arum",
+            "permanently_closed": true,
+            "place_id": "ChIJBaG0QYhXei4RA3WJaTws9QU",
+            "plus_code": {
+                "compound_code": "6928+X2 Ngupasan, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G6928+X2"
+            },
+            "rating": 4.3,
+            "reference": "ChIJBaG0QYhXei4RA3WJaTws9QU",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Jalan Margo Mulyo No.59, Ngupasan"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": -7.782472300000001,
+                    "lng": 110.3790801
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.781131569708498,
+                        "lng": 110.3804798302915
+                    },
+                    "southwest": {
+                        "lat": -7.783829530291503,
+                        "lng": 110.3777818697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Es Teler 77 Galeria Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118190761149400368430\">R A</a>"
+                    ],
+                    "photo_reference": "AZose0m6J7CpR62UYl1DrRfJlRSXkLsHA33UgrLuf2Nqe9kjMY8bR8HIucRD_vewbSXsNPEl8kJlyasRVp56shIqAZuvi5OICFCbPcs6cCK9kkxalmjQaUbvmNnos4JWA1K_MFwyS-ePtP-hkY9_iQH4zzI_S6msSMr2qpx9cvgiXtbik5q5",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJDQEv1MxZei4RdJ-2lxqcOFU",
+            "plus_code": {
+                "compound_code": "699H+2J Terban, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G699H+2J"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJDQEv1MxZei4RdJ-2lxqcOFU",
+            "scope": "GOOGLE",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 268,
+            "vicinity": "Matahari Galeri Yogya, Galeria Mall Lt. Basement 1, Jl. Jend. Sudirman No. 99-101, Gondokusuman, Terban"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": -7.785574700000001,
+                    "lng": 110.3742329
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.784262469708497,
+                        "lng": 110.3756975802915
+                    },
+                    "southwest": {
+                        "lat": -7.786960430291502,
+                        "lng": 110.3729996197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "ROEMI Xtraordinary Ice Cream",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117384411663319347232\">ROEMI Xtraordinary Ice Cream</a>"
+                    ],
+                    "photo_reference": "AZose0nC3wIh7aC6FW59x5ObMskeyN1XlK70JvXIIxS3scQY0RoHBQbmprxzRL2eBXF2qTdstjnZr4zlhVQ6ATWctNrOXM8rOkCTq0uqpisenYOrBzPFEMW4T1AkVweRgVVr3JJQ7raTVMgrHrCFSJw7DSfgfYFjRNVhI2AJGEXULWsvdPY",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJw4zrdjJYei4RfhJouPDNne4",
+            "plus_code": {
+                "compound_code": "697F+QM Kotabaru, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G697F+QM"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJw4zrdjJYei4RfhJouPDNne4",
+            "scope": "GOOGLE",
+            "types": [
+                "store",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2567,
+            "vicinity": "Jalan Suroto No.1, Kotabaru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": -7.783286199999998,
+                    "lng": 110.371683
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.781870819708497,
+                        "lng": 110.3730240302915
+                    },
+                    "southwest": {
+                        "lat": -7.784568780291502,
+                        "lng": 110.3703260697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "McDonald's Sudirman",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108548553809515025452\">Alifah Khoirunisa</a>"
+                    ],
+                    "photo_reference": "AZose0m6bPfSjddFOviZXvfRztK1BxE9Be1FEaQsJ6lNGs7Zmcm7g0oymZyiSofWHFfbUKwE5jeo9x_Px2lKl6YO-WnyLI8kRhzU2frhqezI6-clqcu9GevZgzLlZxJP3dMvKYpyu3Qt0NYRSfixx-5DhKQ8ErMEvZ38XFL1yeysszYn4eyf",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJOemYgTFYei4RcX5Dn6FClIk",
+            "plus_code": {
+                "compound_code": "698C+MM Kotabaru, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G698C+MM"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJOemYgTFYei4RcX5Dn6FClIk",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16129,
+            "vicinity": "Jalan Jendral Sudirman No.38, Kotabaru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": -7.7931393,
+                    "lng": 110.365965
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.791779419708498,
+                        "lng": 110.3672249802915
+                    },
+                    "southwest": {
+                        "lat": -7.794477380291503,
+                        "lng": 110.3645270197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Es Teler 77",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1792,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107816462642623851695\">Zuhri Baihaqi</a>"
+                    ],
+                    "photo_reference": "AZose0mXuYGjBVpVbWYhE9cWfR6ZsnL7XXBvuva0gC6ds0lwviy50zcHgZxdN3UvGSwGfD2IzbwnbXAYaxEhXFzr5uZYZ7lYiwPGFqs2zgZBRr-gt9IW4Qqol1J7wMEhm1z9Gn0BoxczsdocPlgzAJxNNocoZqcaqpYNV5ZhJNmLs_NAneVb",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJ3SIrLCZYei4RsUvGc1VllnA",
+            "plus_code": {
+                "compound_code": "6948+P9 Suryatmajan, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G6948+P9"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJ3SIrLCZYei4RsUvGc1VllnA",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 162,
+            "vicinity": "Malioboro Mall, III - Ext, Jalan Malioboro No.52-58, Suryatmajan"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": -7.782647499999999,
+                    "lng": 110.3643821
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.781398719708497,
+                        "lng": 110.3656951302915
+                    },
+                    "southwest": {
+                        "lat": -7.784096680291501,
+                        "lng": 110.3629971697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Gita Anjana Bakery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4312,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110833293368543733175\">Rachel R</a>"
+                    ],
+                    "photo_reference": "AZose0l8vPX_lBYnU_cevlFWX-0JxbshrPBHi-l9BILTJXvGhk08aVurd6Y79y1-Z0zYFBG6i2gJgTiVED1m9cMQNXW0aBZGqkzumY0_wPjowkuKYYvDdhNQSuSHMJpwX0QqCSTNVIHohTHFM_32daT76f-sTgLS5VPdpEoxGKDJBqfiEFJq",
+                    "width": 5760
+                }
+            ],
+            "place_id": "ChIJq8EfGiVYei4RGOMmcOVyUOw",
+            "plus_code": {
+                "compound_code": "6987+WQ Gowongan, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G6987+WQ"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJq8EfGiVYei4RGOMmcOVyUOw",
+            "scope": "GOOGLE",
+            "types": [
+                "bakery",
+                "store",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 161,
+            "vicinity": "Jalan Pangeran Diponegoro No.46, Gowongan"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": -7.7836367,
+                    "lng": 110.3761694
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.782276569708499,
+                        "lng": 110.3774745802915
+                    },
+                    "southwest": {
+                        "lat": -7.784974530291502,
+                        "lng": 110.3747766197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Bakso Bethesda 74",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 800,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104054611966267402027\">Sintia Astarina</a>"
+                    ],
+                    "photo_reference": "AZose0nL-PRGis9-nK5ilgVtLs1JB3T-sNXgJJtMMspYS-TBlGhltolEyTYkCHl0HfXRSH-V6h_gQH0DN49yP81DX-77uSr72hn0Y362P8Ex4EZ8An1wyzoDgzqBNrPu-LJ0HAmkA7eXVtWVuEZYbaHPgGE2WwJVydtyUcJlaAcHmbrXxG5p",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJxeBRjTJYei4RutXSOCO0gxQ",
+            "plus_code": {
+                "compound_code": "698G+GF Kotabaru, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G698G+GF"
+            },
+            "rating": 4.3,
+            "reference": "ChIJxeBRjTJYei4RutXSOCO0gxQ",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 879,
+            "vicinity": "Jalan Jendral Sudirman No.70, Kotabaru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": -7.797224,
+                    "lng": 110.368797
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.795791419708497,
+                        "lng": 110.3703112802915
+                    },
+                    "southwest": {
+                        "lat": -7.798489380291501,
+                        "lng": 110.3676133197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Rayniza Tour and Travel",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJxWtbvYdXei4RwhVrfZ9KJ9M",
+            "plus_code": {
+                "compound_code": "6939+4G Ngupasan, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G6939+4G"
+            },
+            "reference": "ChIJxWtbvYdXei4RwhVrfZ9KJ9M",
+            "scope": "GOOGLE",
+            "types": [
+                "travel_agency",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "vicinity": "Jl. Perumnas Mundu Saren No.28, Ngupasan"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": -7.778969399999999,
+                    "lng": 110.363068
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.777549369708498,
+                        "lng": 110.3644856302915
+                    },
+                    "southwest": {
+                        "lat": -7.780247330291502,
+                        "lng": 110.3617876697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "R&B Grill Yogyakarta",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 853,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103096806343594395328\">R&amp;B Grill Yogyakarta</a>"
+                    ],
+                    "photo_reference": "AZose0nstidlJi8np_lqInTdzrHgNOVR654q_cHJjZLkjJxaZJ_LFnJFKBiRKW6_06Ddw15lwYpY0LHiMP3Lv8iLxxDtMwJm7_h6jUtlL_oGf_DKD1_LdxSJqVb6fuyG0hjDsy16nSz2YUXmCJy6R3XZOLonIvrrfjn5vgHZInrmXzM3L8pM",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJq-iuDzlYei4RnGezBGtCV-A",
+            "plus_code": {
+                "compound_code": "69C7+C6 Karangwaru, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G69C7+C6"
+            },
+            "price_level": 3,
+            "rating": 4.6,
+            "reference": "ChIJq-iuDzlYei4RnGezBGtCV-A",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4530,
+            "vicinity": "Jalan R.W. Monginsidi No.37, Karangwaru"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": -7.7958501,
+                    "lng": 110.3688969
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.794508069708498,
+                        "lng": 110.3703332302915
+                    },
+                    "southwest": {
+                        "lat": -7.797206030291503,
+                        "lng": 110.3676352697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Sate Ayam Podomoro",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104890278389283573421\">adi ristanto</a>"
+                    ],
+                    "photo_reference": "AZose0kmNau5-YBTmfuCq3dbgaX-PgRNzD-RLpX7KBqpcnkj88mEjD3sjAwQPb7vDIacASwJgs3YGi9kXe5g109ZuWt1UarMY0Z6Ut9JL2ow37lclmaLBhu9jzHcNOcrpdPCZVsV1xDcotz48PgQ7qIFKznmOz9OF5w0gh0v7CaYlSREBAUu",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJ3SIrLCZYei4RZ90lt_KQRfw",
+            "plus_code": {
+                "compound_code": "6939+MH Suryatmajan, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G6939+MH"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJ3SIrLCZYei4RZ90lt_KQRfw",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1080,
+            "vicinity": "Jalan Mataram No.11, Suryatmajan"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": -7.7660959,
+                    "lng": 110.3614117
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.764750219708496,
+                        "lng": 110.3628314802915
+                    },
+                    "southwest": {
+                        "lat": -7.767448180291501,
+                        "lng": 110.3601335197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Rumah Makan Dewi",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3464,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113859143710157365071\">Petrus Pujiatno Bayu</a>"
+                    ],
+                    "photo_reference": "AZose0msPipaDxyHnIkH6gDvEbWsJzic1oPn4EMG9Bgd1fQMmreDvJDs_1DWCleKAxCJJOofHCm699WR6IbqQAIXZ8flFE7D6g8B3thQD7Y2MA0aXnqlw4EkIjs1u91fQOU4tnsDUNcW3h4X-Wcn6KBQ3_GHTcOp0oTSreFaHnZBMyYQya6F",
+                    "width": 4618
+                }
+            ],
+            "place_id": "ChIJeeiSpURYei4Rp68oj_EL6hA",
+            "plus_code": {
+                "compound_code": "69M6+HH Sinduadi, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G69M6+HH"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJeeiSpURYei4Rp68oj_EL6hA",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 446,
+            "vicinity": "Jalan Magelang No.Km. 4,5, Sinduadi"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": -7.782866599999999,
+                    "lng": 110.3790163
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.781594219708497,
+                        "lng": 110.3803697302915
+                    },
+                    "southwest": {
+                        "lat": -7.784292180291501,
+                        "lng": 110.3776717697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "KFC Galleria Yogyakarta",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114959380944988800581\">Sasti Ira Maharani</a>"
+                    ],
+                    "photo_reference": "AZose0l4YBdHE0iffey194jYH-omatPis1R9hvBsN3c1yCVN0d-KQURkWKuyFfO1pVnMMRrM8X5wJX3HHvFWgAfSHn5aBpEcnxicTYOU9_zi-_uYnqmpOJGGmhn_WXm041nYqMy2zJKlQ8f0rqBmDWW4EZgKfjLAoipqrLnFAFDyXKGkLIbt",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJoSOM1cxZei4R7D6CuUzlNro",
+            "plus_code": {
+                "compound_code": "698H+VJ Terban, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G698H+VJ"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJoSOM1cxZei4R7D6CuUzlNro",
+            "scope": "GOOGLE",
+            "types": [
+                "meal_takeaway",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1298,
+            "vicinity": "Jalan Jendral Sudirman No.99-101, Terban"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": -7.7826622,
+                    "lng": 110.3674611
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.781356819708497,
+                        "lng": 110.3688824302915
+                    },
+                    "southwest": {
+                        "lat": -7.784054780291501,
+                        "lng": 110.3661844697085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Shabu Auce",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1184,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107757088520076157189\">Rosita Sari Nurahmadi</a>"
+                    ],
+                    "photo_reference": "AZose0l_sK4Z2-9wShqPrMhavJHlIIf4K3anxaScN_i_Q6luOaIaodX1ruMq_ATlq2t4qfnH6cHZKDr_4eTd_IXZKiz4cNpa51H0hJURWOo5tZ-haqfqQ9qZGjxsI5hWyvpmORrIp-UheYWbOnJHspP0Uj107jr9w3J0bGaLQeyusUqcqFpz",
+                    "width": 1776
+                }
+            ],
+            "place_id": "ChIJMZtshjBYei4RO6F4jK03D-U",
+            "plus_code": {
+                "compound_code": "6988+WX Cokrodiningratan, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G6988+WX"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJMZtshjBYei4RO6F4jK03D-U",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1839,
+            "vicinity": "Jalan Jendral Sudirman No.3, Cokrodiningratan"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": -7.783977999999999,
+                    "lng": 110.3671608
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.782652169708496,
+                        "lng": 110.3685086802915
+                    },
+                    "southwest": {
+                        "lat": -7.7853501302915,
+                        "lng": 110.3658107197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Gudeg Yu Narni Tugu",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110928637322079102745\">Nanas Syam</a>"
+                    ],
+                    "photo_reference": "AZose0nUXmaoO9VNtAkXtVWWKKl3thKIB3S4Tv-_e7qBB31Pq0ImuU-S-RHikpo9P4SgmsAy3Gd3-TUQI9faoosxL27CFcUxeE1bd0jN754-4zs4zBBa6xUoXLHQWfcs5IVssvyWAX5Xaoa5lb5R9GOcOJnMp5ITRgsWHS2WsChtlrNjITLy",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJu9dtcTBYei4R9xN1qL4ADlI",
+            "plus_code": {
+                "compound_code": "6988+CV Gowongan, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G6988+CV"
+            },
+            "price_level": 1,
+            "rating": 4.4,
+            "reference": "ChIJu9dtcTBYei4R9xN1qL4ADlI",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 613,
+            "vicinity": "Jalan Margo Utomo Jalan Kebon Dalem, Gowongan"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": -7.7816219,
+                    "lng": 110.3669409
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.780246119708498,
+                        "lng": 110.3682911802915
+                    },
+                    "southwest": {
+                        "lat": -7.782944080291502,
+                        "lng": 110.3655932197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Soto Sampah",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3072,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109101352525224312418\">Muhammad Rifky Wibisana</a>"
+                    ],
+                    "photo_reference": "AZose0nRyc1iQJMp71QL1e-Aj85V9Wa4WeHH1vV0LunlJk7prLJd3VH7Qjl1iRv2CoxL6VCLNAYgvQ5qMbgoiD22q7RflqDDAZSHniOkq5DtPMx7lT048AL12ShDO9frWg0FsbAigE8Gfu0ffxcUYfzJs8tRrZ2tybWdn3lMzB0TMwepwXYr",
+                    "width": 4080
+                }
+            ],
+            "place_id": "ChIJpZONnTBYei4RBA9GwiXbCM8",
+            "plus_code": {
+                "compound_code": "6998+9Q Cokrodiningratan, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G6998+9Q"
+            },
+            "price_level": 1,
+            "rating": 4.3,
+            "reference": "ChIJpZONnTBYei4RBA9GwiXbCM8",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2679,
+            "vicinity": "Jalan Kranggan No.2, Cokrodiningratan"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": -7.782520000000001,
+                    "lng": 110.368505
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": -7.781175919708498,
+                        "lng": 110.3699883802915
+                    },
+                    "southwest": {
+                        "lat": -7.783873880291503,
+                        "lng": 110.3672904197085
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Warung Makan Mbah Liem",
+            "permanently_closed": true,
+            "place_id": "ChIJeRCJ8TBYei4Rsiph5T4JjAI",
+            "plus_code": {
+                "compound_code": "6989+XC Cokrodiningratan, Kota Yogyakarta, Daerah Istimewa Yogyakarta",
+                "global_code": "6P4G6989+XC"
+            },
+            "rating": 5,
+            "reference": "ChIJeRCJ8TBYei4Rsiph5T4JjAI",
+            "scope": "GOOGLE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Jalan Gondolayu Lor No.4, Cokrodiningratan"
+        }
+    ],
+    "status": "OK"
+}
