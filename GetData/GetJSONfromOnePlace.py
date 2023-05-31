@@ -6,7 +6,7 @@ import os
 # Define constants
 REGION = "id"
 LANGUAGE = "id"
-API_KEY = "your-api-key"
+API_KEY = "AIzaSyAnZNq3mo7LON6UyvVbvnqum-wzxtV31Nk"
 PLACE_ID = "ChIJvb0GwNhYei4R1QHPGGdxI_A"  # Filosopi Kopi Jogja
 PLACE_URL = "https://maps.googleapis.com/maps/api/place/details/json"
 

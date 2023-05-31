@@ -2,14 +2,14 @@ import requests
 import json
 import os
 
-API_KEY = "your-api-key"
+API_KEY = "AIzaSyAnZNq3mo7LON6UyvVbvnqum-wzxtV31Nk"
 
 # Yogyakarta Boundary
 # 8º 30'–7º 20' Lintang Selatan, dan 109º 40'–111º 0' Bujur Timur
-LATITUDE_START = -7.3
-LATITUDE_END = -8.5
-LONGITUDE_START = 109.4
-LONGITUDE_END = 111.0
+LATITUDE_START = -5.0
+LATITUDE_END = -9.0
+LONGITUDE_START = 110.0
+LONGITUDE_END = 113.0
 
 # Define constants and parameters
 RADIUS = 50000
@@ -18,10 +18,29 @@ LANGUAGE = "id"
 REGION = "id"
 NEARBY_URL = "https://maps.googleapis.com/maps/api/place/nearbysearch/json"
 PLACE_URL = "https://maps.googleapis.com/maps/api/place/details/json"
-SHOW2ANDROID_FIELDS = ["name", "rating", "opening_hours", "price_level", "user_ratings_total", "reviews", "types",
-                       "website", "formatted_phone_number", "formatted_address", "geometry", "serves_wine",
-                       "serves_beer", "wheelchair_accessible_entrance"]
-RESPONSE_FILE_PATH = "./GetData/response/WholeYogyakarta.json"
+RESPONSE_FILE_PATH = "./GetData/response/WholeYogyakartav2.json"
+
+# Define categories
+basic_category = ["address_components", "adr_address", "business_status", "formatted_address",
+                  "geometry", "icon", "icon_mask_base_uri", "icon_background_color",
+                  "name", "photo", "place_id", "plus_code", "type", "url", "utc_offset", "vicinity",
+                  "wheelchair_accessible_entrance"]
+
+contact_category = ["formatted_phone_number", "international_phone_number",
+                    "opening_hours", "secondary_opening_hours", "website"]
+
+atmosphere_category = ["curbside_pickup", "delivery", "dine_in", "editorial_summary",
+                       "price_level", "rating", "reservable", "reviews", "serves_beer",
+                       "serves_breakfast", "serves_brunch", "serves_dinner", "serves_lunch",
+                       "serves_vegetarian_food", "serves_wine", "takeout", "user_ratings_total"]
+
+show2android_fields = ["name", "rating", "opening_hours", "price_level",
+                       "user_ratings_total", "reviews", "types", "website",
+                       "formatted_phone_number", "formatted_address", "geometry",
+                       "serves_wine", "serves_beer", "wheelchair_accessible_entrance"]
+
+all_possible_fields = basic_category + contact_category + atmosphere_category
+
 
 # Check if the response file exists
 if os.path.exists(RESPONSE_FILE_PATH):
@@ -72,7 +91,8 @@ for latitude in range(int(LATITUDE_START * 10), int(LATITUDE_END * 10), -5):
                     f"Processing: {current_latitude},{current_longitude} - Place ID: {place_id} ({index+1}/{len(place_ids)})")
                 place_params = {
                     "place_id": place_id,
-                    "fields": ','.join(SHOW2ANDROID_FIELDS),
+                    # "fields": ','.join(all_possible_fields),
+                    "fields":','.join(show2android_fields),
                     "key": API_KEY,
                     "language": LANGUAGE,
                     "region": REGION,
