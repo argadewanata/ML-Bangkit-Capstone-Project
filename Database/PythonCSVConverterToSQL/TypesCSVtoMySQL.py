@@ -1,18 +1,13 @@
 import csv
 import os
 
-CSV_FILEPATH = "Database/CSV/Places.csv"
-SQL_FILEPATH = "Database/PlacesInsertData.sql"
+TYPES_CSV_FILEPATH = "Database/CSV/types.csv"
+TYPES_SQL_FILEPATH = "Database/SQL/TypesInsertData.sql"
 
 
 def generate_insert_statement(row):
-    columns = [
-        "Place_ID", "Name", "FormattedPhone", "FormattedAddress", "Latitude", "Longitude",
-        "OverallRating", "PriceLevel", "Website", "UserRatingTotal", "ServesBeer", "ServesWine",
-        "ServesVegetarianFood", "WheelchairAccessibleEntrance", "Halal", "StreetAddress", "District",
-        "City", "Regency", "Province", "PostalNumber"
-    ]
-    insert_statement = "INSERT INTO Places ("
+    columns = ["Place_ID", "Bar", "Cafe", "Restaurant"]
+    insert_statement = "INSERT INTO Types ("
     values = []
 
     for column in columns:
@@ -30,12 +25,12 @@ def generate_insert_statement(row):
     return insert_statement
 
 
-with open(CSV_FILEPATH, 'r', encoding='utf-8') as csvfile:
+with open(TYPES_CSV_FILEPATH, 'r', encoding='utf-8') as csvfile:
     reader = csv.DictReader(csvfile)
     total_rows = sum(1 for row in reader)
     csvfile.seek(0)  # Reset the file pointer
     next(reader)  # Skip the header row
-    with open(SQL_FILEPATH, 'w', encoding='utf-8') as sqlfile:
+    with open(TYPES_SQL_FILEPATH, 'w', encoding='utf-8') as sqlfile:
         for i, row in enumerate(reader, 1):
             insert_statement = generate_insert_statement(row)
             sqlfile.write(insert_statement)
