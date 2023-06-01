@@ -4,15 +4,31 @@ import os
 CSV_FILEPATH = "Database/CSV/Places.csv"
 SQL_FILEPATH = "Database/PlacesInsertData.sql"
 
+
 def generate_insert_statement(row):
-    insert_statement = "INSERT INTO Places VALUES ("
-    insert_statement += "'{}', '{}', '{}', '{}', {}, {}, {}, {}, '{}', {}, {}, {}, {}, {}, {}, '{}', '{}', '{}', '{}', '{}');".format(
-        row['Place_ID'], row['Name'], row['FormattedPhone'], row['FormattedAddress'], row['Latitude'], 
-        row['Longitude'], row['OverallRating'],row['PriceLevel'], row['Website'], row['UserRatingTotal'], 
-        row['ServesBeer'], row['ServesWine'], row['ServesVegetarianFood'], row['WheelchairAccessibleEntrance'], row['Halal'], 
-        row['StreetAddress'], row['District'], row['City'], row['Regency'],row['Province'],row['PostalNumber']  
-    )
+    columns = [
+        "Place_ID", "Name", "FormattedPhone", "FormattedAddress", "Latitude", "Longitude",
+        "OverallRating", "PriceLevel", "Website", "UserRatingTotal", "ServesBeer", "ServesWine",
+        "ServesVegetarianFood", "WheelchairAccessibleEntrance", "Halal", "StreetAddress", "District",
+        "City", "Regency", "Province", "PostalNumber"
+    ]
+    insert_statement = "INSERT INTO Places ("
+    values = []
+
+    for column in columns:
+        if row[column] is not None and row[column] != "":
+            insert_statement += column + ", "
+            if isinstance(row[column], str):
+                # Escape single quotes by doubling them
+                value = row[column].replace("'", "''")
+                values.append("'" + value + "'")
+            else:
+                values.append(str(row[column]))
+
+    insert_statement = insert_statement.rstrip(
+        ", ") + ") VALUES (" + ", ".join(values) + ");"
     return insert_statement
+
 
 with open(CSV_FILEPATH, 'r', encoding='utf-8') as csvfile:
     reader = csv.DictReader(csvfile)
@@ -24,15 +40,8 @@ with open(CSV_FILEPATH, 'r', encoding='utf-8') as csvfile:
             insert_statement = generate_insert_statement(row)
             sqlfile.write(insert_statement)
             if i != total_rows:
-                sqlfile.write("\n")  # Add a new line after each insert statement, except for the last one
+                # Add a new line after each insert statement, except for the last one
+                sqlfile.write("\n")
             print("Progress: {}/{}".format(i, total_rows))
 
-print("DONE!")  
-
-
-
-
-
-
-
-
+print("DONE!")

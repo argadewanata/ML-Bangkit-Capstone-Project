@@ -2,7 +2,7 @@
 
 CREATE TABLE Places (
     Place_ID VARCHAR(45) PRIMARY KEY,
-    Nama VARCHAR(40) NOT NULL,
+    Name VARCHAR(40) NOT NULL,  
     FormattedPhone VARCHAR(25) NOT NULL,
     FormattedAddress VARCHAR(70) NOT NULL,
     Latitude FLOAT NOT NULL,
@@ -13,7 +13,7 @@ CREATE TABLE Places (
     UserRatingTotal FLOAT,
     ServesBeer BOOLEAN,
     ServesWine BOOLEAN,
-    ServesVegetarian BOOLEAN,
+    ServesVegetarianFood BOOLEAN,
     WheelchairAccessibleEntrance BOOLEAN,
     Halal BOOLEAN,
     StreetAddress VARCHAR(40),
