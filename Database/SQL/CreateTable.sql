@@ -2,14 +2,14 @@
 
 CREATE TABLE Places (
     Place_ID VARCHAR(45) PRIMARY KEY,
-    Name VARCHAR(40) NOT NULL,  
-    FormattedPhone VARCHAR(25) NOT NULL,
-    FormattedAddress VARCHAR(255) NOT NULL,
-    Latitude FLOAT NOT NULL,
-    Longitude FLOAT NOT NULL,
+    Name VARCHAR(255) NOT NULL,  
+    FormattedPhone VARCHAR(25),
+    FormattedAddress VARCHAR(255),
+    Latitude FLOAT,
+    Longitude FLOAT,
     OverallRating FLOAT,
     PriceLevel FLOAT,
-    Website VARCHAR(50),
+    Website VARCHAR(255),
     UserRatingTotal FLOAT,
     ServesBeer BOOLEAN,
     ServesWine BOOLEAN,
@@ -17,10 +17,10 @@ CREATE TABLE Places (
     WheelchairAccessibleEntrance BOOLEAN,
     Halal BOOLEAN,
     StreetAddress VARCHAR(255),
-    District VARCHAR(25),
-    City VARCHAR(25),
-    Regency VARCHAR(25),
-    Province VARCHAR(25),
+    District VARCHAR(255),
+    City VARCHAR(255),
+    Regency VARCHAR(255),
+    Province VARCHAR(255),
     PostalNumber VARCHAR(25)
 );
 
