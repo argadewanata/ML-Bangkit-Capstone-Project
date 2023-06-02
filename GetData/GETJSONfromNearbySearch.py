@@ -3,7 +3,7 @@ import json
 import os
 
 # Define constants
-API_KEY = "your-api-key"
+API_KEY = "AIzaSyAnZNq3mo7LON6UyvVbvnqum-wzxtV31Nk"
 LATITUDE = -7.7829
 LONGITUDE = 110.3671  # Tugu Yogyakarta
 RADIUS = 50000  # 50 km

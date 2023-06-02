@@ -1,19 +1,16 @@
-# IMPORTANT : V1 is using 2 API calls for each place, so it is very slow.
-# 1st API calls is to get place IDs, 2nd API calls is to get place details.
-
-# Import libraries
 import requests
 import json
 import os
 
 # Define constants
-API_KEY = "your-api-key"
-QUERY = "kafe atau restoran di Yogyakarta"
+API_KEY = "AIzaSyAnZNq3mo7LON6UyvVbvnqum-wzxtV31Nk"
+QUERY = "Bar di sekitar Goa Pindul Yogyakarta"
 RADIUS = 50000  # 50 km
 LANGUAGE = "id"
 REGION = "id"
 CITY_URL = "https://maps.googleapis.com/maps/api/place/textsearch/json"
 PLACE_URL = "https://maps.googleapis.com/maps/api/place/details/json"
+FILE_PATH = "./GetData/response/1City_v1_all_fields.json"
 
 # Define categories
 basic_category = ["address_components", "adr_address", "business_status", "formatted_address",
@@ -54,13 +51,26 @@ data = response.json()
 # Get place IDs
 place_ids = [result["place_id"] for result in data.get("results", [])]
 
-# Get place details
-all_places_data = []
-for place_id in place_ids:
+# Get place details and append to the existing data
+existing_data = []
+
+# Check if the file exists
+if os.path.exists(FILE_PATH):
+    with open(FILE_PATH, "r") as file:
+        existing_data = json.load(file)
+
+# Get the existing place IDs
+existing_place_ids = [place_data["result"]["place_id"] for place_data in existing_data]
+
+# Filter out place IDs that already exist in the data
+new_place_ids = [place_id for place_id in place_ids if place_id not in existing_place_ids]
+
+# Get place details for new place IDs
+new_places_data = []
+for place_id in new_place_ids:
     place_params = {
         "place_id": place_id,
         "fields": ','.join(all_possible_fields),
-        # "fields": ','.join(show2android_fields),
         "key": API_KEY,
         "language": LANGUAGE,
         "region": REGION,
@@ -68,16 +78,13 @@ for place_id in place_ids:
     }
     place_response = requests.get(PLACE_URL, params=place_params)
     place_data = place_response.json()
-    all_places_data.append(place_data)
+    new_places_data.append(place_data)
 
-# Create the response directory if it doesn't exist
-directory = "./GetData/response/"
-if not os.path.exists(directory):
-    os.makedirs(directory)
+# Append new data to the existing data
+all_places_data = existing_data + new_places_data
 
 # Save the response as a JSON file
-file_path = os.path.join(directory, "1City_v1_all_fields.json")
-with open(file_path, "w") as file:
-    json.dump(data, file)
+with open(FILE_PATH, "w") as file:
+    json.dump(all_places_data, file)
 
 print("DONE!")
