@@ -1,5 +1,27 @@
 -- Create Table SQL Script 
 
+CREATE TABLE User(
+    User_ID CHAR(3),
+    User_Name VARCHAR(255),
+    Email VARCHAR(35),
+    Password VARCHAR(35),
+);
+
+CREATE TABLE Wishlist(
+    User_ID CHAR(3),
+    Place_ID VARCHAR(45),
+    FOREIGN KEY(User_ID) REFERENCES User(User_ID),
+    FOREIGN KEY(Place_ID) REFERENCES Places(Place_ID),
+);
+
+CREATE TABLE Recommendation(
+    User_ID CHAR(3),
+    Place_ID VARCHAR(45),
+    FOREIGN KEY(User_ID) REFERENCES User(User_ID),
+    FOREIGN KEY(Place_ID) REFERENCES Places(Place_ID),
+);
+
+
 CREATE TABLE Places (
     Place_ID VARCHAR(45) PRIMARY KEY,
     Name VARCHAR(255) NOT NULL,  
