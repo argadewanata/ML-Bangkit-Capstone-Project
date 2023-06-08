@@ -4,6 +4,8 @@ CREATE TABLE User(
     User_ID CHAR(3),
     User_Name VARCHAR(255),
     Email VARCHAR(35),
+    CurrentLatitude FLOAT,
+    CurrentLongitude FLOAT,
     Password VARCHAR(35),
 );
 
