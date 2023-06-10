@@ -1,0 +1,2 @@
+model_checkpoint_path: "roberta_base_weights"
+all_model_checkpoint_paths: "roberta_base_weights"
