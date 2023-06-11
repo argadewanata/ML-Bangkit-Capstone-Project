@@ -59,12 +59,9 @@ CREATE TABLE Types(
 
 CREATE TABLE Reviews(
     Place_ID VARCHAR(45),
-    Name VARCHAR(25),
-    Time VARCHAR(30),
-    Experience VARCHAR(15),
-    NumberOfReview INT,
-    ReviewText VARCHAR(1000),
+    Name VARCHAR(255),
     Star INT,
+    ReviewText VARCHAR(1000),
     FOREIGN KEY(Place_ID) REFERENCES Places(Place_ID)
 );
 
