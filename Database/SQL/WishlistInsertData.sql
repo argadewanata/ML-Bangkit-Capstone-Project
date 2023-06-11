@@ -1,6 +1,6 @@
 -- Andi Budi 
-INSERT INTO Wishlist(User_ID,Place_ID) VALUES ('001','ChIJr8VgoBYBey4RPgC9oYEES0M');
-INSERT INTO Wishlist(User_ID,Place_ID) VALUES ('001','ChIJs-e74Ihbei4R0xYwqyguij0');
+INSERT INTO Wishlist(User_ID,Place_ID) VALUES ('001','ChIJVRf53J8Aey4R6HeAu6FrEuM');
+INSERT INTO Wishlist(User_ID,Place_ID) VALUES ('001','ChIJkZPCGp8Aey4RvxeFSsPS5W0');
 INSERT INTO Wishlist(User_ID,Place_ID) VALUES ('001','ChIJ_WKkLNxXei4R7Jh9_wrcp9U');
 INSERT INTO Wishlist(User_ID,Place_ID) VALUES ('001','ChIJyff7yXVXei4RgIxBaCM9e2c');
 INSERT INTO Wishlist(User_ID,Place_ID) VALUES ('001','ChIJ12iZq5ZXei4RgQuh1QR2C3c');
@@ -9,7 +9,7 @@ INSERT INTO Wishlist(User_ID,Place_ID) VALUES ('001','ChIJ12iZq5ZXei4RgQuh1QR2C3
 INSERT INTO Wishlist(User_ID,Place_ID) VALUES ('002','ChIJJdrijK8Bey4RLJd-873sz5w');
 INSERT INTO Wishlist(User_ID,Place_ID) VALUES ('002','ChIJl6tDx8dZei4RfA88ffLXnDc');
 INSERT INTO Wishlist(User_ID,Place_ID) VALUES ('002','ChIJx9si9MVZei4R7k80s8E6a3Q');
-INSERT INTO Wishlist(User_ID,Place_ID) VALUES ('002','ChIJm-Y01qpZei4RBbzEQdCI1js');
+INSERT INTO Wishlist(User_ID,Place_ID) VALUES ('002','ChIJp4drRkhYei4RD0sGJEwVJLw');
 INSERT INTO Wishlist(User_ID,Place_ID) VALUES ('002','ChIJzXaqSjJYei4RYf7_5RITA9Y');
 
 -- Esty Farah
@@ -26,7 +26,7 @@ INSERT INTO Wishlist(User_ID,Place_ID) VALUES ('004','ChIJjf3V6rxXei4R0lNHoFphUs
 INSERT INTO Wishlist(User_ID,Place_ID) VALUES ('004','ChIJu-N07Fdnei4RjraVCHptiAY');
 INSERT INTO Wishlist(User_ID,Place_ID) VALUES ('004','ChIJ2RN9_2Bnei4RdD0ODTbeVY8');
 
--- Galih Handoko
+-- Insan Joko
 INSERT INTO Wishlist(User_ID,Place_ID) VALUES ('005','ChIJLxsiXtJZei4RLxJtpnDu3Wc');
 INSERT INTO Wishlist(User_ID,Place_ID) VALUES ('005','ChIJT2G5C-4Bey4RF229hMb8nMI');
 INSERT INTO Wishlist(User_ID,Place_ID) VALUES ('005','ChIJf12tTJ4Aey4RVWk5JDdChEk');
