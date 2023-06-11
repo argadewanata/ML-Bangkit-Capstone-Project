@@ -2,8 +2,8 @@
 
 CREATE TABLE User(
     User_ID CHAR(3),
-    User_Name VARCHAR(255),
-    Email VARCHAR(35),
+    FullName VARCHAR(255),
+    Email VARCHAR(255),
     Latitude FLOAT,
     Longitude FLOAT,
     Password VARCHAR(35),
