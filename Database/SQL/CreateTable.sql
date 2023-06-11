@@ -4,8 +4,8 @@ CREATE TABLE User(
     User_ID CHAR(3),
     User_Name VARCHAR(255),
     Email VARCHAR(35),
-    CurrentLatitude FLOAT,
-    CurrentLongitude FLOAT,
+    Latitude FLOAT,
+    Longitude FLOAT,
     Password VARCHAR(35),
 );
 
@@ -22,7 +22,6 @@ CREATE TABLE Recommendation(
     FOREIGN KEY(User_ID) REFERENCES User(User_ID),
     FOREIGN KEY(Place_ID) REFERENCES Places(Place_ID),
 );
-
 
 CREATE TABLE Places (
     Place_ID VARCHAR(45) PRIMARY KEY,
@@ -48,7 +47,6 @@ CREATE TABLE Places (
     PostalNumber VARCHAR(25)
 );
 
-
 CREATE TABLE Types(
     Place_ID VARCHAR(45),
     Bar BOOLEAN,
@@ -61,7 +59,7 @@ CREATE TABLE Reviews(
     Place_ID VARCHAR(45),
     Name VARCHAR(255),
     Star INT,
-    ReviewText VARCHAR(1000),
+    ReviewText VARCHAR(5000),
     FOREIGN KEY(Place_ID) REFERENCES Places(Place_ID)
 );
 

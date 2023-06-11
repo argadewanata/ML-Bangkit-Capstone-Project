@@ -8,9 +8,3 @@ INSERT INTO User(User_ID,User_Name,Email,CurrentLatitude,CurrentLongitude,Passwo
 
 -- Contoh sedang di Keraton Yogyakarta
 INSERT INTO User(User_ID,User_Name,Email,CurrentLatitude,CurrentLongitude,Password) VALUES ('003','Esty Farah', 'estyfarah@gmail.com',-7.809,110.3636, 'estyfarah123');
-
--- Contoh sedang di Bandara Yogyakarta International Airport (YIA)
-INSERT INTO User(User_ID,User_Name,Email,CurrentLatitude,CurrentLongitude,Password) VALUES ('004','Galih Handoko', 'galihhandoko@gmail.com',-7.7881,110.4318 'galihhandoko123');
-
--- Contoh sedang di Goa Pindul Yogyakarta
-INSERT INTO User(User_ID,User_Name,Email,CurrentLatitude,CurrentLongitude,Password) VALUES ('005','Insan Joko', 'insanjoko@gmail.com', -7.151, 110.1403,'insanjoko123');
