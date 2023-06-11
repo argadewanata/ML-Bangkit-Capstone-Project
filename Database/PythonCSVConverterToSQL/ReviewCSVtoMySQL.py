@@ -7,7 +7,7 @@ REVIEW_SQL_FILEPATH = "Database/SQL/ReviewInsertData.sql"
 
 def generate_insert_statement(row):
     columns = [
-        "Place_ID", "User", "Star", "ReviewText"
+        "Place_ID", "Name", "Star", "ReviewText"
     ]
     insert_statement = "INSERT INTO Reviews ("
     values = []
