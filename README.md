@@ -19,10 +19,10 @@ M038DSX0370 | Rere Arga Dewanata              |
 1. [Gathering hangout spot data details from Google Maps API](#gathering-hangout-spot-data-details-from-google-maps-api)  
 2. [Gathering all the spot features and reviews from Google Maps](#gathering-all-the-spot-features-and-reviews-from-google-maps)  
 3. [Formatting all the data using pandas](#formatting-all-the-data-using-pandas)  
-4. Preprocessing the data review with Natural Language Toolkit and Regular Expression  
-5. Building a new machine learning model using indobert transfer learning  
-6. Predicting the review sentiment with that model  
-7. Building a recommender system using TF-IDF with cosine similarity
+4. [Building a new machine learning model using indobert transfer learning](#building-a-new-machine-learning-model-using-indobert-transfer-learning)  
+5. Predicting the review sentiment with that model  
+6. Building a recommender system using TF-IDF with cosine similarity
+7. Adding all the processed data to the database
 
 # Further Explanation
 ## Gathering hangout spot data details from Google Maps API
@@ -38,8 +38,8 @@ For this project, one of our objective is to conduct sentiment analysis on place
 ## Formatting all the data using pandas
 To ensure the accuracy of our sentiment analysis, we follow a formatting step to enhance the data and optimize the results. The initial data is in JSON format, which we load and convert into a pandas dataframe. By transforming the data into a dataframe, we gain the ability to easily manipulate the information. This includes creating new columns, duplicating dataframes, merging data, and more. In this [Python notebook file](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/blob/main/Data%20Cleaning/Revision%202/Cleaning_data_03_revised.ipynb), we perform necessary manipulations on the dataframe to align it with our requirements, and subsequently export it to separate CSV files. From this previous [JSON file](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/blob/main/GetData/JSON_Response/1City_v1_all_fields.json), we get [Places.csv](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/blob/main/Database/CSV/Places.csv), [types.csv](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/blob/main/Database/CSV/types.csv), and [OperationHours.csv](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/blob/main/Database/CSV/OperationHours.csv).
 
- 
-
+## Building a new machine learning model using indobert transfer learning
+Once we have obtained the [Review.csv](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/blob/main/Sentiment%20Analysis/cleaned.csv) dataset, our next step is to build a sentiment analysis model based on the reviews provided. Prior to conducting the analysis, we will first clean the text reviews using regular expressions to eliminate numbers, single characters, multiple whitespaces, and special characters. Furthermore, we will utilize [this](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/blob/main/Sentiment%20Analysis/new_kamusalay.csv) resource to standardize all Indonesian slang words into a uniform format. Additionally, we will employ [this](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/blob/main/Sentiment%20Analysis/stopwordbahasa.csv) dataset to remove any stopwords that may affect the analysis process.
 
 
 
