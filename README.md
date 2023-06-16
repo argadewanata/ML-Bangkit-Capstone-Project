@@ -17,7 +17,7 @@ M038DSX0370 | Rere Arga Dewanata              |
 
 # Overall Development Flow 
 1. [Gathering hangout spot data details from Google Maps API](#gathering-hangout-spot-data-details-from-google-maps-api)  
-2. Gathering all the spot features and reviews from Google Maps  
+2. [Gathering all the spot features and reviews from Google Maps](#gathering-all-the-spot-features-and-reviews-from-google-maps)  
 3. Preprocessing all the data using pandas and regular expression  
 4. Preprocessing data review sentiment with Natural Language Toolkit  
 5. Building a new machine learning model using indobert transfer learning  
@@ -31,6 +31,10 @@ For this capstone project, we have developed a Minimal Viable Product (MVP). Cur
 To fetch the response, we developed a Python program, and the final version can be found in this file: [GetJSONfromOneCityv1.py](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/blob/main/GetData/GetJSONfromAPI/GetJSONfromOneCityV1.py). Using this code, we fetched all possible places within a 50km radius of Yogyakarta based on a pinpoint query. After each iteration, we shifted the pinpoint location to ensure we obtained a broader range of places that align with our project requirements.
 
 Once we obtained the potential places, we made subsequent requests to gather detailed information such as name, formatted phone number, formatted address, opening hours, rating, and more. The results were appended and stored in a JSON file named [1City_v1_all_fields.json](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/blob/main/GetData/JSON_Response/1City_v1_all_fields.json).
+
+## Gathering all the spot features and reviews from Google Maps 
+For this project, one of our objective is to conduct sentiment analysis on place reviews in order to determine the sentiment associated with each place. While we initially obtained reviews from the API response, we realized that the limited number of reviews (only five) was insufficient for our needs. To overcome this limitation, we use data scraping for additional reviews on Google Maps and added them to our database. By adopting this approach, we were able to gather a larger volume of reviews, which greatly assisted us in developing an effective yet precise sentiment analysis system.
+
 
  
 
