@@ -41,5 +41,20 @@ To ensure the accuracy of our sentiment analysis, we follow a formatting step to
 ## Building a new machine learning model using indobert transfer learning
 Once we have obtained the [Review.csv](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/blob/main/Sentiment%20Analysis/cleaned.csv) dataset, our next step is to build a sentiment analysis model based on the reviews provided. Prior to conducting the analysis, we will first clean the text reviews using regular expressions to eliminate numbers, single characters, multiple whitespaces, and special characters. Furthermore, we will utilize [this](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/blob/main/Sentiment%20Analysis/new_kamusalay.csv) resource to standardize all Indonesian slang words into a uniform format. Additionally, we will employ [this](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/blob/main/Sentiment%20Analysis/stopwordbahasa.csv) dataset to remove any stopwords that may affect the analysis process.
 
+Once the data has been cleaned and prepared, we proceed to build a model using transfer learning from an existing Indobert. In addition to the pre-trained layers, we incorporate five additional layers into the model. The model summary can be viewed   
+![Model_Summary](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/assets/70679432/78808a90-bcef-45b3-b651-69b330097095)  
+For model compilation, we utilize BinaryCrossentropy as it proves highly effective for classifying binary tasks such as this project. The model is then trained for four epochs with a batch size of 30, and the process is time-efficient. The model loss and accuracy graphs are shown below
+![Model_Loss](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/assets/70679432/4f2091f1-b90e-4438-98f2-c512b8adf93f)
+![Model_Accuracy](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/assets/70679432/bbf51ffc-b2a4-4251-8012-fc37703d8e30)  
+
+Moving on to the model evaluation metrics: 
+The recall is 0.84  
+The precision is 1.00  
+The accuracy is 0.84  
+The F1 measure is 0.91    
+
+Following the evaluation, we save the model as an .h5 file.   
+For a more detailed overview of the process, you can refer to the [sentiment_analysis_python_notebook](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/blob/main/Sentiment%20Analysis/SentimentAnalysis.ipynb)
+
 
 
