@@ -1,5 +1,5 @@
 # ML-Bangkit-Capstone-Project-Nongki-C23PR513
-A Repository containing the Machine Learning (ML) section of Bangkit 2023 Capstone Project by Group C23-PR513. Other parts of this project can be accessed through [this link](https://github.com/argadewanata/C23-PR513_Mid-Checkpoint)
+A Repository containing the Machine Learning (ML) section of Bangkit 2023 Capstone Project by Group C23-PR513. Other parts of this project can be accessed through [this link](https://github.com/argadewanata/C23-PR513_Mid-Checkpoint).  
 
 ## Title of Capsone Project 
 Nongki
@@ -14,6 +14,12 @@ Bangkit ID  | Full Name                       |
 M038DSX1765 | Muhammad Azka Bintang Pramudya  | 
 M040DSY0555 | Shahnaz Salsabila Ishak         |
 M038DSX0370 | Rere Arga Dewanata              |
+
+## Related Link to Our Project
+1. [Slide presentation link](https://www.canva.com/design/DAFlzSyG0OM/UzO5bba6TuWcpynpdTvZGg/edit?utm_content=DAFlzSyG0OM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+2. [Video Presentation](https://youtu.be/SKhmMks5kag)
+3. [Project Brief](https://docs.google.com/document/d/1WBYCNjmgmEvCtbIrnKq-Q-XFo5L7woNx/edit?usp=sharing&ouid=113117300709765044885&rtpof=true&sd=true)
+4. [Demo Apps](https://drive.google.com/file/d/1b7-apcgAvGetBgnD-sEjVhCUBSs2-vAa/view?usp=sharing)
 
 # Overall Development Flow 
 1. [Gathering hangout spot data details from Google Maps API](#gathering-hangout-spot-data-details-from-google-maps-api)  
