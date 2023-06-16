@@ -1,5 +1,5 @@
 # ML-Bangkit-Capstone-Project-Nongki-C23PR513
-Sebuah Repository yang berisi bagian Machine Learning (ML) dalam Capstone Project Bangkit 2023 kelompok C23-PR513. Bagian path yang lain pada project ini dapat diakses pada [link ini](https://github.com/argadewanata/C23-PR513_Mid-Checkpoint)
+A Repository containing the Machine Learning (ML) section of Bangkit 2023 Capstone Project by Group C23-PR513. Other parts of this project can be accessed through [this link](https://github.com/argadewanata/C23-PR513_Mid-Checkpoint)
 
 ## Title of Capsone Project 
 Nongki
@@ -8,8 +8,8 @@ Nongki
 In Indonesia, people face difficulties finding the perfect hangout spot that matches their needs. This leads to frustration, wasted time, and money by visiting the places that do not match their preferences. Our project addresses this by developing a mobile app with a plethora of hangout spots database. It provides detailed information, reviews, and personalized recommendations based on user preferences, budget, and location. Traditional search engines and review sites can be unreliable, while our app offers accurate suggestions, promoting hidden gems and supporting local businesses. Users can break the monotony of visiting the same places and discover new options. With our app, they can save time researching but instead get tailored recommendations based on their characteristics. By leveraging user preferences and dietary needs, our app ensures relevant suggestions and helps boost exposure and sales for hangout spots.
 
 ## Author
-Dibuat dan dikembangkan oleh Machine Learning Cohort Google Bangkit 2023 dengan profil sebagai berikut
-ID Bangkit  | Nama Lengkap                    |                
+Created and developed by the Machine Learning Cohort of Google Bangkit 2023, with the following profiles:
+Bangkit ID  | Full Name                       |                
 ----------- | ------------------------------- |               
 M038DSX1765 | Muhammad Azka Bintang Pramudya  | 
 M040DSY0555 | Shahnaz Salsabila Ishak         |
