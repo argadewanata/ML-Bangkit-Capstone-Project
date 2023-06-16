@@ -18,8 +18,8 @@ M038DSX0370 | Rere Arga Dewanata              |
 # Overall Development Flow 
 1. [Gathering hangout spot data details from Google Maps API](#gathering-hangout-spot-data-details-from-google-maps-api)  
 2. [Gathering all the spot features and reviews from Google Maps](#gathering-all-the-spot-features-and-reviews-from-google-maps)  
-3. Preprocessing all the data using pandas and regular expression  
-4. Preprocessing data review sentiment with Natural Language Toolkit  
+3. [Formatting all the data using pandas](#formatting-all-the-data-using-pandas)  
+4. Preprocessing the data review with Natural Language Toolkit and Regular Expression  
 5. Building a new machine learning model using indobert transfer learning  
 6. Predicting the review sentiment with that model  
 7. Building a recommender system using TF-IDF with cosine similarity
@@ -35,6 +35,8 @@ Once we obtained the potential places, we made subsequent requests to gather det
 ## Gathering all the spot features and reviews from Google Maps 
 For this project, one of our objective is to conduct sentiment analysis on place reviews in order to determine the sentiment associated with each place. While we initially obtained reviews from the API response, we realized that the limited number of reviews (only five) was insufficient for our needs. To overcome this limitation, we use data scraping for additional reviews on Google Maps and added them to our database. By adopting this approach, we were able to gather a larger volume of reviews, which greatly assisted us in developing an effective yet precise sentiment analysis system.
 
+## Formatting all the data using pandas
+To ensure the accuracy of our sentiment analysis, we follow a formatting step to enhance the data and optimize the results. The initial data is in JSON format, which we load and convert into a pandas dataframe. By transforming the data into a dataframe, we gain the ability to easily manipulate the information. This includes creating new columns, duplicating dataframes, merging data, and more. In this [Python notebook file](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/blob/main/Data%20Cleaning/Revision%202/Cleaning_data_03_revised.ipynb), we perform necessary manipulations on the dataframe to align it with our requirements, and subsequently export it to separate CSV files. From this previous [JSON file](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/blob/main/GetData/JSON_Response/1City_v1_all_fields.json), we get [Places.csv](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/blob/main/Database/CSV/Places.csv), [types.csv](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/blob/main/Database/CSV/types.csv), and [OperationHours.csv](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/blob/main/Database/CSV/OperationHours.csv).
 
  
 
