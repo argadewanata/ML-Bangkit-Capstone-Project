@@ -22,7 +22,7 @@ M038DSX0370 | Rere Arga Dewanata              |
 4. [Building a new machine learning model using indobert transfer learning](#building-a-new-machine-learning-model-using-indobert-transfer-learning)  
 5. [Predicting the review sentiment with that model](#predicting-the-review-sentiment-with-that-model) 
 6. [Building a recommender system using TF-IDF with cosine similarity](#building-a-recommender-system-using-tf-idf-with-cosine-similarity)
-7. Adding all the processed data to the database
+7. [Adding all the processed data to the database](#adding-all-the-processed-data-to-the-database)
 
 # Further Explanation
 ## Gathering hangout spot data details from Google Maps API
@@ -44,9 +44,9 @@ Once we have obtained the [Review.csv](https://github.com/argadewanata/ML-Bangki
 Once the data has been cleaned and prepared, we proceed to build a model using transfer learning from an existing Indobert. We split the data into train and test. In addition to the pre-trained layers, we incorporate five additional layers into the model. The model summary can be viewed   
 ![Model_Summary](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/assets/70679432/78808a90-bcef-45b3-b651-69b330097095)  
 
-The model then trained for four epochs with a batch size of 30, and the process is time-efficient. The model loss and accuracy graphs are shown below
-![Model_Loss](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/assets/70679432/4f2091f1-b90e-4438-98f2-c512b8adf93f)
-![Model_Accuracy](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/assets/70679432/bbf51ffc-b2a4-4251-8012-fc37703d8e30)  
+The model then trained for four epochs with a batch size of 30, and the process is time-efficient. The model loss and accuracy graphs are shown below  
+![Model_Loss](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/assets/70679432/4f2091f1-b90e-4438-98f2-c512b8adf93f)  
+![Model_Accuracy](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/assets/70679432/bbf51ffc-b2a4-4251-8012-fc37703d8e30)    
 
 Moving on to the model evaluation metrics: 
 The recall is 0.84  
@@ -66,3 +66,11 @@ Once we have collected all the review sentiments, our next step is to develop a 
 ![Example_TFIDF](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/assets/70679432/6fe55b0d-19f9-485b-8ae4-d2c3354990b8)
 
 By employing this table, we can determine the similarity between the characteristics of different places. Leveraging this information, we can recommend places that share similar characteristics based on the user's wishlist. This approach enhances the accuracy of our recommendations and improves the overall user experience.
+
+## Adding all the processed data to the database  
+After all the data has been processed, we will store all the data in MySQL. This is the MySQL Physical Data Model (PDM).
+![PDM_Capstone_Project_Bangkit](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/assets/70679432/82fa5503-355f-49d4-8a4d-45daa958da04)  
+
+To create table, we're using this [SQL Statement](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/blob/main/Database/SQL/CreateTable.sql).  
+To store that, we convert all existing csv to sql using [all of this python script](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/tree/main/Database/PythonCSVConverterToSQL).   
+With this script, we will get [all of this mySQL Statement](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/tree/main/Database/SQL) so we can input to the data easier
