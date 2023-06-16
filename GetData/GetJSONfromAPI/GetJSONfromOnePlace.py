@@ -1,3 +1,5 @@
+# Note: This script is used to get JSON data from Google Places API for one place
+
 # Import libraries
 import requests
 import json

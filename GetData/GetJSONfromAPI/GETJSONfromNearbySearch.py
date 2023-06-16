@@ -1,9 +1,11 @@
+# Note: This script is used to get JSON data from Google Places API using Nearby Search method
+
 import requests
 import json
 import os
 
 # Define constants
-API_KEY = "AIzaSyAnZNq3mo7LON6UyvVbvnqum-wzxtV31Nk"
+API_KEY = "YOUR_API_KEY"
 LATITUDE = -7.7829
 LONGITUDE = 110.3671  # Tugu Yogyakarta
 RADIUS = 50000  # 50 km

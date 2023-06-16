@@ -1,15 +1,17 @@
+# note : This script is used to get data from google places API using nearby search
+
 import requests
 import json
 import os
 
-API_KEY = "AIzaSyAnZNq3mo7LON6UyvVbvnqum-wzxtV31Nk"
+API_KEY = "YOUR_API_KEY"
 
 # Yogyakarta Boundary
 # 8º 30'–7º 20' Lintang Selatan, dan 109º 40'–111º 0' Bujur Timur
-LATITUDE_START = -5.0
-LATITUDE_END = -9.0
-LONGITUDE_START = 110.0
-LONGITUDE_END = 113.0
+LATITUDE_START = -8.3
+LATITUDE_END = -7.2
+LONGITUDE_START = 109.4
+LONGITUDE_END = 111.0
 
 # Define constants and parameters
 RADIUS = 50000
@@ -92,7 +94,7 @@ for latitude in range(int(LATITUDE_START * 10), int(LATITUDE_END * 10), -5):
                 place_params = {
                     "place_id": place_id,
                     # "fields": ','.join(all_possible_fields),
-                    "fields":','.join(show2android_fields),
+                    "fields": ','.join(show2android_fields),
                     "key": API_KEY,
                     "language": LANGUAGE,
                     "region": REGION,
