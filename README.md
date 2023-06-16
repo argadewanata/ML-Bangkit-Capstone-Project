@@ -20,8 +20,8 @@ M038DSX0370 | Rere Arga Dewanata              |
 2. [Gathering all the spot features and reviews from Google Maps](#gathering-all-the-spot-features-and-reviews-from-google-maps)  
 3. [Formatting all the data using pandas](#formatting-all-the-data-using-pandas)  
 4. [Building a new machine learning model using indobert transfer learning](#building-a-new-machine-learning-model-using-indobert-transfer-learning)  
-5. Predicting the review sentiment with that model  
-6. Building a recommender system using TF-IDF with cosine similarity
+5. [Predicting the review sentiment with that model](#predicting-the-review-sentiment-with-that-model) 
+6. [Building a recommender system using TF-IDF with cosine similarity](#building-a-recommender-system-using-tf-idf-with-cosine-similarity)
 7. Adding all the processed data to the database
 
 # Further Explanation
@@ -41,9 +41,10 @@ To ensure the accuracy of our sentiment analysis, we follow a formatting step to
 ## Building a new machine learning model using indobert transfer learning
 Once we have obtained the [Review.csv](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/blob/main/Sentiment%20Analysis/cleaned.csv) dataset, our next step is to build a sentiment analysis model based on the reviews provided. Prior to conducting the analysis, we will first clean the text reviews using regular expressions to eliminate numbers, single characters, multiple whitespaces, and special characters. Furthermore, we will utilize [this](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/blob/main/Sentiment%20Analysis/new_kamusalay.csv) resource to standardize all Indonesian slang words into a uniform format. Additionally, we will employ [this](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/blob/main/Sentiment%20Analysis/stopwordbahasa.csv) dataset to remove any stopwords that may affect the analysis process.
 
-Once the data has been cleaned and prepared, we proceed to build a model using transfer learning from an existing Indobert. In addition to the pre-trained layers, we incorporate five additional layers into the model. The model summary can be viewed   
+Once the data has been cleaned and prepared, we proceed to build a model using transfer learning from an existing Indobert. We split the data into train and test. In addition to the pre-trained layers, we incorporate five additional layers into the model. The model summary can be viewed   
 ![Model_Summary](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/assets/70679432/78808a90-bcef-45b3-b651-69b330097095)  
-For model compilation, we utilize BinaryCrossentropy as it proves highly effective for classifying binary tasks such as this project. The model is then trained for four epochs with a batch size of 30, and the process is time-efficient. The model loss and accuracy graphs are shown below
+
+The model then trained for four epochs with a batch size of 30, and the process is time-efficient. The model loss and accuracy graphs are shown below
 ![Model_Loss](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/assets/70679432/4f2091f1-b90e-4438-98f2-c512b8adf93f)
 ![Model_Accuracy](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/assets/70679432/bbf51ffc-b2a4-4251-8012-fc37703d8e30)  
 
@@ -54,7 +55,14 @@ The accuracy is 0.84
 The F1 measure is 0.91    
 
 Following the evaluation, we save the model as an .h5 file.   
-For a more detailed overview of the process, you can refer to the [sentiment_analysis_python_notebook](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/blob/main/Sentiment%20Analysis/SentimentAnalysis.ipynb)
+For a more detailed overview of the process, you can refer to this [sentiment_analysis_python_notebook](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/blob/main/Sentiment%20Analysis/SentimentAnalysis.ipynb)
 
+## Predicting the review sentiment with that model
+After the model has been created, we predict all the review datas and get all the sentiments.
 
+## Building a recommender system using TF-IDF with cosine similarity
+Once we have collected all the review sentiments, our next step is to develop a recommender system using the Term Frequency - Inverse Document Frequency (TF-IDF) algorithm. TF-IDF is a powerful technique that utilizes word frequency to determine the relevance of words within a document. To illustrate, refer to the example, which showcases the calculation of TF-IDF scores.
 
+![Example_TFIDF](https://github.com/argadewanata/ML-Bangkit-Capstone-Project/assets/70679432/6fe55b0d-19f9-485b-8ae4-d2c3354990b8)
+
+By employing this table, we can determine the similarity between the characteristics of different places. Leveraging this information, we can recommend places that share similar characteristics based on the user's wishlist. This approach enhances the accuracy of our recommendations and improves the overall user experience.
